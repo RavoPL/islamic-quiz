@@ -53,17 +53,17 @@ Developed by **Dorian Wolarz**, a Code Institute Student
 
 ### User Goals
 
-* Find a traditional sea-side restaurant with a well structured, user-friendly webpage.
-* Easily find the needed contact information.
-* Find the location of the restaurant in Portaferry and its surrounding areas.
-* Be able to see a full menu with clear pricing and appealing photos.
+* Test my knowledge of the religion.
+* Easily navigate across a clean user interface.
+* Play an interactive quiz of varying difficulty.
+* Challenge myself to beat my high score and in turn learn more about the topic I'm being quizzed on.
 
 ### Site Owner Goals
 
-* Promote the business and facilitate its growth.
-* Provide a way for customers to contact the business and make orders.
-* Provide essential information in regards to opening hours, store location, etc.
-* Ensure that customers are aware of special offers and events.
+* Promote Islam and the correct understanding of the religion among Muslims and non-Muslims alike.
+* Provide a way for the student or new user to contact the author with active links on the footer.
+* Provide essential and up to date information during the quiz so that the user is aware of his or her progress status.
+* Ensure that students can further expand their knowledge by making an easily accessible list of shuyookh, a'imma and du'aah.
 
 ## User Experience
 
