@@ -69,18 +69,18 @@ Developed by **Dorian Wolarz**, a Code Institute Student
 
 ### Target Audience
 
-* New potential customers looking for a nice seaside restaurant.
-* Familiar customers looking to order food for delivery.
-* Customers looking for catering for small, medium or large parties and special events.
+* Knowledgeable Muslims wanting to test their knowledge of the religion.
+* Laymen Muslims wanting to expand their knowledge through a fun, challenging and fully interactive quiz.
+* Non-Muslims looking to learn more about Islam and test their current knowledge.
 
 ### Customer Requirements and Expectations
 
 * A well structured, user-friendly and efficient webpage.
 * Simple and intuitive navigation system.
-* A glitchless experience with functions that work properly.
-* Excellent webpage design with an appealing, industry standard aesthetic, that seamlessly fits to any screen size.
-* A level of accessibility for customers with disabilities.
-* Good presentation practices with suitable font types, font sizes and colours of backgrounds.
+* A glitchless experience with features that work properly.
+* A challenging, fun and fully interactive quiz of varying difficulty on various topics related to the religion.
+* A level of accessibility for students and new users with disabilities.
+* Resources, links and channels of reputable teachers that can help answer the questions on the webpage and expand the knowledge of a motivated student.
 
 ### Customer Stories and Demands
 
