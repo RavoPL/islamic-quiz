@@ -12,10 +12,10 @@ Developed by **Dorian Wolarz**, a Code Institute Student
     - [Site Owner Goals](#site-owner-goals)
 2. [User Experience](#user-experience)
     - [Target Audience](#target-audience)
-    - [Customer Requirements and Expectations](#site-owner-goals)
-    - [Customer Stories and Demands](#customer-stories-and-demands)
-       - [First-time Customer](#first-time-customer)
-       - [Returning Customer](#returning-customer)
+    - [User Requirements and Expectations](#user-requirements-and-expectations)
+    - [User Stories and Demands](#user-stories-and-demands)
+       - [First-time User](#first-time-user)
+       - [Returning User](#returning-user)
        - [Webpage Owner](#webpage-owner)
 3. [Design of the Website](#design-of-the-website)
     - [Design Choices](#design-choices)
@@ -73,7 +73,7 @@ Developed by **Dorian Wolarz**, a Code Institute Student
 * Laymen Muslims wanting to expand their knowledge through a fun, challenging and fully interactive quiz.
 * Non-Muslims looking to learn more about Islam and test their current knowledge.
 
-### Customer Requirements and Expectations
+### User Requirements and Expectations
 
 * A well structured, user-friendly and efficient webpage.
 * Simple and intuitive navigation system.
@@ -82,33 +82,31 @@ Developed by **Dorian Wolarz**, a Code Institute Student
 * A level of accessibility for students and new users with disabilities.
 * Resources, links and channels of reputable teachers that can help answer the questions on the webpage and expand the knowledge of a motivated student.
 
-### Customer Stories and Demands
+### User Stories and Demands
 
-#### First-time Customer
+#### First-time User
 
-1. As a new user I want to know where exactly the restaurant is located.
-2. I want to know the price range so I can compare it with other restaurants in the area.
-3. I'd like to know more about the hours of opening, the special offers and the catering for special events.
-4. I'd want to be able to make orders from the webpage without having to make a separate account.
-5. I want to know more about the restaurant and the people that work there.
-6. I'd love to know about any points of interest close to the restaurant's accommodation.
-7. I'd like to see what bed and breakfast options are available in the establishment.
+1. As a completely new user and non-Muslim I want to understand what the website is about and what I can expect to be tested on.
+2. As a new user I want to know how to play the quiz.
+3. I'd like to easily navigate across a clean and friendly user interface.
+4. I'd like to have the option to contact the author of the webpage on his socials for any inquiries or potential problems.
+5. I want to access the leaderboards and see who I'm squaring up against before I commit.
+6. As a first time user and a layman Muslim I'd like to test my knowledge on the foundations of the religion to refresh my memory.
 
-#### Returning Customer
+#### Returning User
 
-8. As a returning customer, I'd like to see an expanded list of special offers.
-9. As a returning customer I want to know the changed opening hours.
-10. As a returning customer I'd like to find the phone number to make reservations.
-11. I'd like to see the menu, with a clear pricing list and names of dishes.
-12. I want to make orders without having to make a separate account just for this purpose.
-13. I would want to find clickable icons to access social media.
-14. I'd like to see a gallery of relevant photos so I can see the facilities in the establishment.
+7. As a returning user and a student of knowledge, I'd like to access the leaderboards and see if anyone has gotten ahead of me since I last played.
+8. As a returning user I'd like to test myself on an intermediate difficulty topic, such as Islamic history.
+9. As a returning user and a dedicated student of knowledge, I'd like to test my wits in a difficult quiz, such as the intricacies of Furu al-Fiqh.
+10. I'd like to contact the webpage creator through his socials in order to give him some of my ideas for improvements to the website.
+11. I'd like to refresh my memory on how to play the game as I haven't been on the website in a few weeks.
+12. I want to see a list of reputable scholars, imams and speakers to take from and improve my previous high score.
 
 #### Webpage Owner
 
-15. As the owner of the website, I want the customers to have an easy way to contact us.
-16. I want the customers to have an easy access to on-webpage ordering, so that orders can be forwarded to us without any issues and without the need to make personal accounts to be held in our database.
-17. I'd like the users to have a good experience viewing the webpage and getting to know our menu, special offers, special events and a little bit about us as a company and brand.
+13. As the owner of the website, I want the users to have an easy way to contact me with any queries through the hyperlink-based icons to my socials in the footer of the website.
+14. I want the students to compete against each other in all three quizzes and, as such, I'd like to have a leaderboard for every difficulty of the game.
+15. I'd like the users to have a good experience viewing the webpage, so I'd like to make sure the website follows good UX design principles, is easy on the eyes and incorporates full interactivity of each page and button.
 
 ## Design of the Website
 
