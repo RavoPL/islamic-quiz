@@ -1,4 +1,4 @@
-# Narrows Portaferry
+# Talib al-Ilm
 Developed by **Dorian Wolarz**, a Code Institute Student
 
 ![Image of My Website on a Mac](docs/readme-image.png)
