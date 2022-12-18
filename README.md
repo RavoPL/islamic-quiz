@@ -132,18 +132,28 @@ The website is structured in a user friendly way that makes navigation of its co
 ### Wireframes
 
 <details>
-  <summary>Home, About and Contact</summary>
-  <img src="docs/wireframes/menu-about-contact-wireframe.png" alt="Wireframe of Home, About and Contact sections" title="Home Page Wireframe">
+  <summary>Home Page</summary>
+  <img src="docs/wireframes/homewireframe.png" alt="Wireframe of Home Page" title="Home Page Wireframe">
 </details>
 
 <details>
-  <summary>Gallery</summary>
-  <img src="docs/wireframes/gallery-wireframe.png" alt="Wireframe of Gallery Page" title="Gallery Page Wireframe">
+  <summary>Quiz in Progress</summary>
+  <img src="docs/wireframes/quizprogress.png" alt="Wireframe of Quiz Progress" title="Quiz Progress Wireframe">
 </details>
 
 <details>
-  <summary>Menu and Amenities</summary>
-  <img src="docs/wireframes/amenities-wireframe.png" alt="Wireframe of Amenities Page" title="Menu and Amenities Page Wireframe">
+  <summary>Quiz Finished</summary>
+  <img src="docs/wireframes/quizfinished.png" alt="Wireframe of Finished Quiz" title="Finished Quiz Page Wireframe">
+</details>
+
+<details>
+  <summary>Student Grades Page</summary>
+  <img src="docs/wireframes/studentgrades.png" alt="Wireframe of Grades Page" title="Student Grades Page Wireframe">
+</details>
+
+<details>
+  <summary>Shuyookh, A'imma and Du'aah Page</summary>
+  <img src="docs/wireframes/teacherspage.png" alt="Wireframe of Teachers Page" title="Teachers Page Wireframe">
 </details>
 
 ## Technologies Used
@@ -152,6 +162,7 @@ The website is structured in a user friendly way that makes navigation of its co
 
 * HTML
 * CSS
+* Javascript
 
 ### Tools and Websites
 
