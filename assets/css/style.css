@@ -2,6 +2,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@200&family=Roboto:wght@300&display=swap');
 
 /* -- foundational stylings -- */
+
 * {
     margin: 0;
     padding: 0;
@@ -16,10 +17,18 @@ body {
 }
 
 /* -- headings, logo and paragraphs styling -- */
-h1, h2 {
+
+h1 {
     font-family: Roboto, sans-serif;
     text-transform: uppercase;
     letter-spacing: 3px;
+    color: bisque;
+}
+
+h2 {
+    font-family: Montserrat, sans-serif;
+    text-transform: uppercase;
+    font-size: 120%;
     color: bisque;
 }
 
@@ -55,6 +64,17 @@ header a {
     min-height: 90vh;
   }
 
+/* -- information box styling -- */
+
+.box-index {
+    align-items:center;
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    flex-flow: column;
+    padding: 1.5rem;
+}
+
 /* follows the same principle but changes the photo to better fit a phone screen */
 @media (max-width: 700px){
     .bckg-index {
@@ -66,6 +86,7 @@ header a {
 }
 
 /* -- footer styling -- */
+
 footer {
     align-items: center;
     text-align: center;
