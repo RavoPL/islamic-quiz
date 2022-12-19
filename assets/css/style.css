@@ -62,27 +62,7 @@ header a {
     background-size: cover;
     background-position: center;
     min-height: 90vh;
-    width: 100%;
-    height: 200px;
-    position: relative;
   }
-
-/* -- information box styling -- */
-
-.box-index {
-    align-items:center;
-    text-align: center;
-    display: flex;
-    justify-content: space-around;
-    flex-flow: column;
-    padding: 1rem;
-    row-gap: 1rem;
-    position: relative;
-    top: -70vh;
-    border: 1px solid #ffebcd;
-    border-radius: 10px;
-    background-color: rgba(0,0,0,0.7);
-}
 
 /* follows the same principle but changes the photo to better fit a phone screen */
 @media (max-width: 700px){
@@ -91,6 +71,37 @@ header a {
         background-size: cover;
         background-position: center;
         min-height: 90vh;
+    }
+}
+
+/* -- information box styling -- */
+
+/* aligns the items and text to the center of the screen and sets a flex display
+padding and row-gap allow for adequate spaces between headings and paragraphs
+position is set to absolute instead of relative so as to not leave a blank space
+top, left and transform values center the box to the middle of the screen
+applies a solid border with adequate opacity and rounds the corners with radius */
+.box-index {
+    align-items:center;
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    flex-flow: column;
+    padding: 1rem;
+    row-gap: 1rem;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    border: 1px solid #ffebcd;
+    border-radius: 10px;
+    background-color: rgba(0,0,0,0.7);
+}
+
+/* follows the same principle but changes font size for mobile devices */
+@media (max-width: 700px) {
+    .box-index {
+        font-size: small;
     }
 }
 
