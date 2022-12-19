@@ -88,6 +88,29 @@ applies a solid border with adequate opacity and rounds the corners with radius 
     background-color: rgba(0,0,0,0.7);
 }
 
+/* -- collapsible box styling, NOT MINE, made By W3Schools, modified by me -- */
+
+/* styles the button that is used to open the collapsible content */
+.collapsible {
+    background-color: rgba(0,0,0,0.7);
+    color: blanchedalmond;
+    cursor: pointer;
+    padding: 5px;
+    border: 1px solid #ffebcd;
+    text-align: center;
+    outline: none;
+    font-family: Montserrat, sans-serif;
+  }
+
+/* styles the collapsible content */
+  .content {
+    padding: 0 18px;
+    background-color: rgba(0,0,0,0.7);
+    max-height: 0;
+    overflow: hidden;
+    transition: max-height 0.2s ease-out;
+  }
+
 /* -- footer styling -- */
 
 footer {
