@@ -12,7 +12,7 @@ body {
     font-family: Roboto, sans-serif;
     font-weight: 300;
     color: blanchedalmond;
-    background-color: rgb(17, 17, 17);
+    background-color: black;
 }
 
 /* -- headings, logo and paragraphs styling -- */
@@ -42,4 +42,35 @@ header {
 header a {
     color: inherit;
     text-decoration: none;
+}
+
+/* -- background images styling -- */
+
+/* loads the background image from path and stretches it across the screen
+ aligns the image to the center of the page and sets the min height to 90% of viewport */
+.bckg-index {
+    background: url(../backgrounds/bckg-index2.jpg) no-repeat;
+    background-size: cover;
+    background-position: center;
+    min-height: 90vh;
+  }
+
+/* follows the same principle but changes the photo to better fit a phone screen */
+@media (max-width: 700px){
+    .bckg-index {
+        background: url(../backgrounds/bckg-index.jpg) no-repeat;
+        background-size: cover;
+        background-position: center;
+        min-height: 90vh;
+    }
+}
+
+/* -- footer styling -- */
+footer {
+    align-items: center;
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    font-size: 80%;
+    min-height: 6vh;
 }
