@@ -21,47 +21,6 @@ const quizContainer = document.getElementById('quiz');
 const resultsContainer = document.getElementById('results');
 const submitButton = document.getElementById('submit');
 
-/* -- basic functions of the quiz -- */
-
-/* logic for building the quiz structure */
-function buildQuiz(){
-  /* variable to store all HTML output */
-  const output = [];
-  /* HTML loop of each question */
-  questionsDeen.forEach(
-    (currentQuestion, questionNumber) => {
-      /* variable to store answers in */
-      const answers = [];
-      /* for loop to fill answers and array to hold possible answers, adds a radio button */
-      for(letter in currentQuestion.answers){
-        answers.push(
-        `<label>
-        <input type="radio" name="question${questionNumber}" value="${letter}">
-        ${letter}:
-        ${currentQuestion.answers[letter]}
-        </label>`
-        );
-      }
-      /* adds the current question and its answer to the output */
-      output.push(
-        `<div class="question"> ${currentQuestion.question} </div>
-        <div class="answers"> ${answers.join('')} </div>`
-      );
-    }
-  );
-  /* combines the output list into one string and prints it on the page */
-  quizContainer.innerHTML = output.join('');
-}
-
-/* logic for displaying quiz results */
-function showResults(){}
-
-/* displays the quiz structure */
-buildQuiz();
-
-/* displays results when 'submit' button is pressed */
-submitButton.addEventListener('click', showResults);
-
 /* -- a list of questions to display for the Foundations of Deen section -- */
 
 const questionsDeen = [
@@ -156,3 +115,66 @@ const questionsDeen = [
     correctAnswer: "c"
   }
 ]
+
+/* -- basic functions of the quiz -- */
+
+/* logic for building the quiz structure */
+function buildQuiz(){
+  /* variable to store all HTML output */
+  const output = [];
+  /* HTML loop of each question */
+  questionsDeen.forEach(
+    (currentQuestion, questionNumber) => {
+      /* variable to store answers in */
+      const answers = [];
+      /* for loop to fill answers and array to hold possible answers, adds a radio button */
+      for(letter in currentQuestion.answers){
+        answers.push(
+        `<label>
+        <input type="radio" name="question${questionNumber}" value="${letter}">
+        ${letter}:
+        ${currentQuestion.answers[letter]}
+        </label>`
+        );
+      }
+      /* adds the current question and its answer to the output */
+      output.push(
+        `<div class="question"> ${currentQuestion.question} </div>
+        <div class="answers"> ${answers.join('')} </div>`
+      );
+    }
+  );
+  /* combines the output list into one string and prints it on the page */
+  quizContainer.innerHTML = output.join('');
+}
+
+/* logic for displaying quiz results */
+function showResults(){
+  /* gathers answer containers from the quiz */
+  const answerContainers = quizContainer.querySelectorAll('.answers');
+  /* keeps track of the student's answers */
+  let numCorrect = 0;
+  /* for loop for each question asked */
+  questionsDeen.forEach(
+    (currentQuestion, questionNumber) => {
+      /* finds the selected answer */
+      const answerContainer = answerContainers[questionNumber];
+      const selector = `input[name=question${questionNumber}]:checked`;
+      const userAnswer = (answerContainer.querySelector(selector) || {}).value;
+      /* if the answer chosen is correct it does the following */
+      if(userAnswer === currentQuestion.correctAnswer){
+        /* increments the number of correct answers */
+        numCorrect++;
+        /* colours the answers green */
+        answerContainers[questionNumber].style.color = 'lightgreen';
+      }
+      /* if the answer chosen is incorrect or blank it does the following */
+    }
+  )
+}
+
+/* displays the quiz structure */
+buildQuiz();
+
+/* displays results when 'submit' button is pressed */
+submitButton.addEventListener('click', showResults);
