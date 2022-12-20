@@ -70,6 +70,13 @@ header a {
     min-height: 90vh;
 }
 
+.bckg-deen {
+    background: url(../backgrounds/bckg-scholars.jpg) no-repeat;
+    background-size: cover;
+    background-position: center;
+    min-height: 90vh;
+}
+
 /* -- information box styling -- */
 
 /* aligns the items and text to the center of the screen and sets a flex display
@@ -167,6 +174,12 @@ footer {
         min-height: 90vh;
     }
     .bckg-scholars {
+        background: url(../backgrounds/bckg-scholars2.jpg) no-repeat;
+        background-size: cover;
+        background-position: center;
+        min-height: 90vh;
+    }
+    .bckg-deen {
         background: url(../backgrounds/bckg-scholars2.jpg) no-repeat;
         background-size: cover;
         background-position: center;
