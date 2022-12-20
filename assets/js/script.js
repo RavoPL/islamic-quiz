@@ -70,7 +70,7 @@ const questionsDeen = [
     answers: {
       a: "Tawheed",
       b: "Kaaba",
-      c: "Ramadan"
+      c: "Ramadan",
     },
     correctAnswer: "c"
   },
