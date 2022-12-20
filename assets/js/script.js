@@ -21,6 +21,8 @@ const quizContainer = document.getElementById('quiz');
 const resultsContainer = document.getElementById('results');
 const submitButton = document.getElementById('submit');
 
+/*const quizContainer = document.getElementById('quiz2');*/
+
 /* -- a list of questions to display for the Foundations of Deen section -- */
 
 const questionsDeen = [
@@ -118,7 +120,7 @@ const questionsDeen = [
 
 /* -- a list of questions to display for the Islamic History section -- */
 
-const questionsHistory = [
+/*const questionsHistory = [
   {
     question: "Which Islamic movement was adopted by the House of Saud in 1744?",
     answers: {
@@ -219,7 +221,7 @@ const questionsHistory = [
     correctAnswer: "b"
   },
   {
-    question: "Which of these battles did Khalid ibn al-Walid fight AGAINST Muslims?",
+    question: "Which of these battles did Khalid al-Walid fight against Muslims?",
     answers: {
       a: "Battle of Hunayn",
       b: "Battle of Walaja",
@@ -299,7 +301,7 @@ const questionsHistory = [
     },
     correctAnswer: "a"
   }
-]
+]*/
 
 /* -- basic functions of the quiz, NOT MINE, made By Sitepoint, rewritten, modified and commented on by me -- */
 
@@ -336,8 +338,8 @@ function buildQuiz(){
   quizContainer.innerHTML = output.join('');
 }
 
-/* separate function for the Islamic History quiz */
-function buildHistory(){
+/* separate quiz function for the Islamic History quiz */
+/*function buildHistory(){
   const output = [];
   questionsHistory.forEach(
     (currentQuestion, questionNumber) => {
@@ -360,7 +362,7 @@ function buildHistory(){
     }
   );
   quizContainer.innerHTML = output.join(``);
-}
+}*/
 
 /* logic for displaying quiz results */
 function showResults(){
@@ -393,6 +395,27 @@ function showResults(){
   resultsContainer.innerHTML = `${numCorrect} out of ${questionsDeen.length}`;
 }
 
+/* separate answers function for the Islamic History quiz */
+/*function showResults(){
+  const answerContainers = quizContainer.querySelectorAll('.answers');
+  let numCorrect = 0;
+  questionsHistory.forEach(
+    (currentQuestion, questionNumber) => {
+      const answerContainer = answerContainers[questionNumber];
+      const selector = `input[name=question${questionNumber}]:checked`;
+      const userAnswer = (answerContainer.querySelector(selector) || {}).value;
+      if(userAnswer === currentQuestion.correctAnswer){
+        numCorrect++;
+        answerContainers[questionNumber].style.color = 'lightgreen';
+      }
+      else {
+        answerContainers[questionNumber].style.color = 'red';
+      }
+    }
+  );
+  resultsContainer.innerHTML = `${numCorrect} out of ${questionsDeen.length}`;
+}*/
+
 /* logic for displaying a slide and changing pages */
 function showSlide(n) {
   /* hides the current slide */
@@ -423,7 +446,7 @@ function showSlide(n) {
 
 /* displays the quiz structure */
 buildQuiz();
-buildHistory();
+/*buildHistory();*/
 
 /* variables for changing pages in the quiz */
 const previousButton = document.getElementById("previous");
