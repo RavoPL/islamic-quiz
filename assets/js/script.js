@@ -169,8 +169,14 @@ function showResults(){
         answerContainers[questionNumber].style.color = 'lightgreen';
       }
       /* if the answer chosen is incorrect or blank it does the following */
+      else{
+        /* colours the answers red */
+        answerContainers[questionNumber].style.color = 'red';
+      }
     }
-  )
+  );
+  /* shows the number of correct answers out of all questions asked */
+  resultsContainer.innerHTML = `${numCorrect} out of ${questionsDeen.length}`;
 }
 
 /* displays the quiz structure */
