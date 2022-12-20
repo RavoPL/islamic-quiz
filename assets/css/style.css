@@ -94,6 +94,10 @@ applies a solid border with adequate opacity and rounds the corners with radius 
     background-color: rgba(0,0,0,0.7);
 }
 
+.box-index a {
+    color: inherit;
+}
+
 /* styles the clickable buttons on the index page */
 .bttn-index {
     background-color: rgba(0,0,0,0.7);
@@ -103,11 +107,6 @@ applies a solid border with adequate opacity and rounds the corners with radius 
     text-align: center;
     outline: none;
     font-family: Montserrat, sans-serif;
-}
-
-/* removes the purple color of visited website and blue underline of hyperlink */
-.bttn-index a {
-    text-decoration: none;
     color: blanchedalmond;
 }
 

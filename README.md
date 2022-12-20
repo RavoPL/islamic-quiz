@@ -494,6 +494,8 @@ You can clone the repository by following these steps:
 
 * [bckg-index.jpg by crossingilandmono](https://crossingilandmono.tumblr.com/post/94134417843/minaret-moon)
 * [bckg-index2.jpg by miroha and Wallpaper Abyss](https://wall.alphacoders.com/big.php?i=1114313)
+* [bckg-scholars.jpg by Wallpaper Flare](https://www.wallpaperflare.com/quran-read-islam-muslim-arabic-book-allah-prayer-time-wallpaper-ajuju)
+* [bckg-scholars2.jpg by Wallpaper Flare](https://www.wallpaperflare.com/morocco-casablanca-hassan-ii-mosque-marocco-muslim-muslims-wallpaper-ervjt)
 
 ### Code and Assets
 * [Font Awesome 5 Icons by W3Schools, imported to make use of Facebook logo in the Footer](https://www.w3schools.com/icons/fontawesome5_intro.asp)
