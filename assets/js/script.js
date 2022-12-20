@@ -15,7 +15,7 @@ for (i = 0; i < coll.length; i++) {
   });
 }
 
-/* -- declaration of HTML elements of Quiz into variables -- */
+/* -- declaration of HTML elements of general Quiz structure into variables -- */
 
 const quizContainer = document.getElementById('quiz');
 const resultsContainer = document.getElementById('results');
@@ -30,9 +30,27 @@ function buildQuiz(){
   /* HTML loop of each question */
   questionsDeen.forEach(
     (currentQuestion, questionNumber) => {
-
+      /* variable to store answers in */
+      const answers = [];
+      /* for loop to fill answers and array to hold possible answers, adds a radio button */
+      for(letter in currentQuestion.answers){
+        answers.push(
+        `<label>
+        <input type="radio" name="question${questionNumber}" value="${letter}">
+        ${letter}:
+        ${currentQuestion.answers[letter]}
+        </label>`
+        );
+      }
+      /* adds the current question and its answer to the output */
+      output.push(
+        `<div class="question"> ${currentQuestion.question} </div>
+        <div class="answers"> ${answers.join('')} </div>`
+      );
     }
-  )
+  );
+  /* combines the output list into one string and prints it on the page */
+  quizContainer.innerHTML = output.join('');
 }
 
 /* logic for displaying quiz results */
