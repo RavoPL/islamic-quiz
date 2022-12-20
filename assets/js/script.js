@@ -111,6 +111,21 @@ const questionsDeen = [
     correctAnswer: "b"
   },
   {
-    question: ""
+    question: "Which book records the traditions and sayings of Prophet Muhammad SAW?",
+    answers: {
+      a: "Tafsir",
+      b: "Tawrat",
+      c: "Hadith",
+    },
+    correctAnswer: "c"
+  },
+  {
+    question: "When was the Prophet Muhammad SAW born?",
+    answers: {
+      a: "400 CE",
+      b: "670 CE",
+      c: "570 CE",
+    },
+    correctAnswer: "c"
   }
 ]
