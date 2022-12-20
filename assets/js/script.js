@@ -138,9 +138,12 @@ function buildQuiz(){
         );
       }
       /* adds the current question and its answer to the output */
+      /* slide holds the question and answer containers */
       output.push(
-        `<div class="question"> ${currentQuestion.question} </div>
-        <div class="answers"> ${answers.join('')} </div>`
+        `<div class="slide">
+        <div class="question"> ${currentQuestion.question} </div>
+        <div class="answers"> ${answers.join('')} </div>
+        </div>`
       );
     }
   );
