@@ -116,7 +116,7 @@ const questionsDeen = [
   }
 ]
 
-/* -- basic functions of the quiz -- */
+/* -- basic functions of the quiz, NOT MINE, made By Sitepoint, rewritten, modified and commented on by me -- */
 
 /* logic for building the quiz structure */
 function buildQuiz(){
@@ -182,8 +182,55 @@ function showResults(){
   resultsContainer.innerHTML = `${numCorrect} out of ${questionsDeen.length}`;
 }
 
+/* logic for displaying a slide and changing pages */
+function showSlide(n) {
+  /* hides the current slide */
+  slides[currentSlide].classList.remove('active-slide');
+  /* shows the new slide */
+  slides[n].classList.add('active-slide');
+  /* updates the current slide number */
+  currentSlide = n;
+  if(currentSlide === 0){
+    /* hides the previous button if we're on the first slide */
+    previousButton.style.display = 'none';
+  }
+  else {
+    /* displays the previous button if we're NOT on the first slide */
+    previousButton.style.display = 'inline-block';
+  }
+  if(currentSlide === slides.length-1){
+    /* hides the next slide button if we're on the last slide and displays the submit button */
+    nextButton.style.display = 'none';
+    submitButton.style.display = 'inline-block';
+  }
+  else {
+    /* displays the next slide button if we're NOT on the last slide and hides the submit button */
+    nextButton.style.display = 'inline-block';
+    submitButton.style.display = 'none';
+  }
+}
+
 /* displays the quiz structure */
 buildQuiz();
 
-/* displays results when 'submit' button is pressed */
+/* variables for changing pages in the quiz */
+const previousButton = document.getElementById("previous");
+const nextButton = document.getElementById("next");
+const slides = document.querySelectorAll(".slide");
+let currentSlide = 0;
+
+/* calls the function to display a slide */
+showSlide(currentSlide);
+
+/* two functions that make the navigation buttons work */
+function showNextSlide(){
+  showSlide(currentSlide + 1);
+}
+function showPreviousSlide(){
+  showSlide(currentSlide - 1);
+}
+
+/* displays results when 'submit' button is pressed, hooks the nav buttons to slide functions */
 submitButton.addEventListener('click', showResults);
+previousButton.addEventListener("click", showPreviousSlide);
+nextButton.addEventListener("click", showNextSlide);
