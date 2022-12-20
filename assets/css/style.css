@@ -76,6 +76,12 @@ header a {
     background-position: center;
     min-height: 90vh;
 }
+.bckg-history {
+    background: url(../backgrounds/bckg-history.jpg) no-repeat;
+    background-size: cover;
+    background-position: center;
+    min-height: 90vh;
+}
 
 /* -- information box styling -- */
 
@@ -221,6 +227,12 @@ footer {
     }
     .bckg-deen {
         background: url(../backgrounds/bckg-deen2.jpg) no-repeat;
+        background-size: cover;
+        background-position: center;
+        min-height: 90vh;
+    }
+    .bckg-history {
+        background: url(../backgrounds/bckg-history2.jpg) no-repeat;
         background-size: cover;
         background-position: center;
         min-height: 90vh;
