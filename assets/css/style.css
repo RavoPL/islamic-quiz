@@ -82,6 +82,12 @@ header a {
     background-position: center;
     min-height: 90vh;
 }
+.bckg-fiqh {
+    background: url(../backgrounds/bckg-fiqh.jpg) no-repeat;
+    background-size: cover;
+    background-position: center;
+    min-height: 90vh;
+}
 
 /* -- information box styling -- */
 
@@ -233,6 +239,12 @@ footer {
     }
     .bckg-history {
         background: url(../backgrounds/bckg-history2.jpg) no-repeat;
+        background-size: cover;
+        background-position: center;
+        min-height: 90vh;
+    }
+    .bckg-fiqh {
+        background: url(../backgrounds/bckg-fiqh2.jpg) no-repeat;
         background-size: cover;
         background-position: center;
         min-height: 90vh;

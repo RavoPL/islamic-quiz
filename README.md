@@ -500,6 +500,8 @@ You can clone the repository by following these steps:
 * [bckg-deen2.jpg by Wallpaper Flare](https://www.wallpaperflare.com/masjid-nabawi-i-ve-to-medina-minaret-architecture-religion-wallpaper-ehjug)
 * [bckg-history.jpg by Levi Meir Clancy on Unsplash](https://unsplash.com/photos/Y2oE2uNLSrs)
 * [bckg-history2.jpg by Daniel Burka on Unsplash](https://unsplash.com/photos/oR9ZisoF_NE)
+* [bckg-fiqh.jpg by Nazreen Banu on Unsplash](https://unsplash.com/photos/BDYxMbCNs8c)
+* [bckg-fiqh2.jpg by Ahmet Kagan Hancer on Unsplash](https://unsplash.com/photos/FFhJCVaFuO0)
 
 ### Code and Assets
 * [Font Awesome 5 Icons by W3Schools, imported to make use of Facebook logo in the Footer](https://www.w3schools.com/icons/fontawesome5_intro.asp)
