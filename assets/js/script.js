@@ -116,6 +116,191 @@ const questionsDeen = [
   }
 ]
 
+/* -- a list of questions to display for the Islamic History section -- */
+
+const questionsHistory = [
+  {
+    question: "Which Islamic movement was adopted by the House of Saud in 1744?",
+    answers: {
+      a: "Mahdavia",
+      b: "Salafism",
+      c: "Wahhabism",
+    },
+    correctAnswer: "c"
+  },
+  {
+    question: "What is the Zulfiqar?",
+    answers: {
+      a: "A knife",
+      b: "A spear",
+      c: "A sword",
+    },
+    correctAnswer: "c"
+  },
+  {
+    question: "Who founded the Mawlawiyah Sufi order?",
+    answers: {
+      a: "Shams Tabrizi",
+      b: "Ibn Arabi",
+      c: "Rumi",
+    },
+    correctAnswer: "c"
+  },
+  {
+    question: "Who founded the Hanbali school?",
+    answers: {
+      a: "Ahmad ibn Hanbal",
+      b: "Ibn Taymiyyah",
+      c: "Abu Hanifa",
+    },
+    correctAnswer: "a"
+  },
+  {
+    question: "What were the first four Caliphs collectively called?",
+    answers: {
+      a: "Rashidun",
+      b: "Shah",
+      c: "Shaykh al-Islam",
+    },
+    correctAnswer: "a"
+  },
+  {
+    question: "Who constructed the Great Mosque of Damascus?",
+    answers: {
+      a: "Maulana Sher Ali",
+      b: "al-Walid I",
+      c: "Umar II",
+    },
+    correctAnswer: "b"
+  },
+  {
+    question: "Which battle was led by the Prophet SAW during Ramadan?",
+    answers: {
+      a: "Battle of Badr",
+      b: "Battle of Uhud",
+      c: "Battle of the Trench",
+    },
+    correctAnswer: "a"
+  },
+  {
+    question: "What was the purpose of the Prophet SAW's hijrah to Medina?",
+    answers: {
+      a: "To escape plague",
+      b: "To spread Islam",
+      c: "To escape persecution",
+    },
+    correctAnswer: "c"
+  },
+  {
+    question: "Who succeeded the Prophet SAW after his death?",
+    answers: {
+      a: "Abu Hurairah",
+      b: "Abu Bakr",
+      c: "Khalid ibn al-Walid",
+    },
+    correctAnswer: "b"
+  },
+  {
+    question: "What does the term Islam mean?",
+    answers: {
+      a: "Submission",
+      b: "Peace",
+      c: "Holy",
+    },
+    correctAnswer: "a"
+  },
+  {
+    question: "Which Islamic movement was adopted by the House of Saud in 1744?",
+    answers: {
+      a: "Mahdavia",
+      b: "Salafism",
+      c: "Wahhabism",
+    },
+    correctAnswer: "c"
+  },
+  {
+    question: "What is the Zulfiqar?",
+    answers: {
+      a: "A knife",
+      b: "A spear",
+      c: "A sword",
+    },
+    correctAnswer: "c"
+  },
+  {
+    question: "Who founded the Mawlawiyah Sufi order?",
+    answers: {
+      a: "Shams Tabrizi",
+      b: "Ibn Arabi",
+      c: "Rumi",
+    },
+    correctAnswer: "c"
+  },
+  {
+    question: "Who founded the Hanbali school?",
+    answers: {
+      a: "Ahmad ibn Hanbal",
+      b: "Ibn Taymiyyah",
+      c: "Abu Hanifa",
+    },
+    correctAnswer: "a"
+  },
+  {
+    question: "What were the first four Caliphs collectively called?",
+    answers: {
+      a: "Rashidun",
+      b: "Shah",
+      c: "Shaykh al-Islam",
+    },
+    correctAnswer: "a"
+  },
+  {
+    question: "Who constructed the Great Mosque of Damascus?",
+    answers: {
+      a: "Maulana Sher Ali",
+      b: "al-Walid I",
+      c: "Umar II",
+    },
+    correctAnswer: "b"
+  },
+  {
+    question: "Which battle was led by the Prophet SAW during Ramadan?",
+    answers: {
+      a: "Battle of Badr",
+      b: "Battle of Uhud",
+      c: "Battle of the Trench",
+    },
+    correctAnswer: "a"
+  },
+  {
+    question: "What was the purpose of the Prophet SAW's hijrah to Medina?",
+    answers: {
+      a: "To escape plague",
+      b: "To spread Islam",
+      c: "To escape persecution",
+    },
+    correctAnswer: "c"
+  },
+  {
+    question: "Who succeeded the Prophet SAW after his death?",
+    answers: {
+      a: "Abu Hurairah",
+      b: "Abu Bakr",
+      c: "Khalid ibn al-Walid",
+    },
+    correctAnswer: "b"
+  },
+  {
+    question: "What does the term Islam mean?",
+    answers: {
+      a: "Submission",
+      b: "Peace",
+      c: "Holy",
+    },
+    correctAnswer: "a"
+  }
+]
+
 /* -- basic functions of the quiz, NOT MINE, made By Sitepoint, rewritten, modified and commented on by me -- */
 
 /* logic for building the quiz structure */
