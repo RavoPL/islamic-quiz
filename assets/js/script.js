@@ -336,6 +336,32 @@ function buildQuiz(){
   quizContainer.innerHTML = output.join('');
 }
 
+/* separate function for the Islamic History quiz */
+function buildHistory(){
+  const output = [];
+  questionsHistory.forEach(
+    (currentQuestion, questionNumber) => {
+      const answers = [];
+      for(letter in currentQuestion.answers){
+        answers.push(
+          `<label>
+          <input type="radio" name="question${questionNumber}" value="${letter}">
+          ${letter}:
+          ${currentQuestion.answers[letter]}
+          </label>`
+          );
+      }
+      output.push(
+        `<div class="slide">
+        <div class="question"> ${currentQuestion.question} </div>
+        <div class="answers"> ${answers.join('')} </div>
+        </div>`
+      );
+    }
+  );
+  quizContainer.innerHTML = output.join(``);
+}
+
 /* logic for displaying quiz results */
 function showResults(){
   /* gathers answer containers from the quiz */
@@ -397,6 +423,7 @@ function showSlide(n) {
 
 /* displays the quiz structure */
 buildQuiz();
+buildHistory();
 
 /* variables for changing pages in the quiz */
 const previousButton = document.getElementById("previous");
