@@ -477,22 +477,9 @@ The website was deployed using GitHub Pages by following these steps:
 
 ### Media
 
-* [partytable.jpg by Ko-Deco Events & Catering](https://www.trulyengaging.com/wp-content/uploads/2011/09/black-headtable.jpg)
-* [foodtableone.jpg by Table Food and Drink](https://tablefoodanddrink.com/assets/images/slider/_970x450_crop_center-center_75_none/88.jpg)
-* [foodtabletwo.jpg by Martin's Country Store LCC](https://burst.shopifycdn.com/photos/flatlay-iron-skillet-with-meat-and-other-food.jpg?width=1200&format=pjpg&exif=1&iptc=1)
-* [narrowsportaferry-logo.png by Dorian Wolarz for Krzystof Piórek](https://images.squarespace-cdn.com/content/v1/5feb2f1ea55e935ca8ec25d7/1612287749630-9V8B19RDPHRQJL9MCBCZ/NarrowsPortaferry_PNG.png)
-* [portaferrydronephoto.jpg by Marinas and CMT Group](https://img.marinas.com/v2/cbe1cffa28a4b905f7c75a10c8d13afbe852c461421cca599603f0dec23fc6a4.jpg)
-* [portaferryfront.jpg by Narrows Guesthouse](https://www.facebook.com/narrowsguesthouse/)
-* [portaferryview.jpg by Celtic Canada](https://celticcanada.com/wp-content/uploads/2018/08/charming-villages-ni-portaferry.jpg)
-* [All Photos for the Responsive Gallery by Narrows Guesthouse](https://www.facebook.com/narrowsguesthouse/)
-* [narrowsmenuone.jpg by GMVozd/Getty Images](https://www.jetsetter.com//uploads/sites/7/2018/04/t_Px07Lv-1380x690.jpeg)
-* [narrowsmenutwo.jpg by Cast Science](https://cdn-ds.com/blogs-media/sites/223/2020/11/12184137/LXT-top-1112_b.jpg)
-* [amenitiesone.jpg by Country Living/Getty Images](https://hips.hearstapps.com/clv.h-cdn.co/assets/17/29/1500477714-bed-and-breakfast-index.jpg)
-* [amenitiestwo.jpg by Marie Claire](https://www.mercersburginn.com/wp-content/uploads/2015/11/MarieClaire-slide.jpg)
-* [amenitiesthree.jpg by Denis Waitley/Getty Images](https://ssl.latcdn.com/img/ye3GO0n3z-georgia.jpg)
-* [readme-image.png by Phat Thalung](https://thumbs.dreamstime.com/b/imac-computer-table-phatthalung-thailand-september-keyboard-magic-mouse-wooden-created-apple-inc-130872404.jpg)
+* [bckg-index.jpg by crossingilandmono](https://crossingilandmono.tumblr.com/post/94134417843/minaret-moon)
+* [bckg-index2.jpg by miroha and Wallpaper Abyss](https://wall.alphacoders.com/big.php?i=1114313)
 
 ### Code and Assets
 * [Font Awesome 5 Icons by W3Schools, imported to make use of Facebook logo in the Footer](https://www.w3schools.com/icons/fontawesome5_intro.asp)
-* [Responsive Footer Code by CodingNepal](https://www.youtube.com/watch?v=f4J3uaNNYTE)
-* [Responsive Gallery Code by Tim Wells](https://timnwells.medium.com/create-a-simple-responsive-image-gallery-with-html-and-css-fcb973f595ea)
+* [Collapsible Box Code by W3Schools](https://www.w3schools.com/howto/howto_js_collapsible.asp)
