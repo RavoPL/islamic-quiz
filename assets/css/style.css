@@ -71,7 +71,7 @@ header a {
 }
 
 .bckg-deen {
-    background: url(../backgrounds/bckg-scholars.jpg) no-repeat;
+    background: url(../backgrounds/bckg-deen.jpg) no-repeat;
     background-size: cover;
     background-position: center;
     min-height: 90vh;
@@ -220,7 +220,7 @@ footer {
         min-height: 90vh;
     }
     .bckg-deen {
-        background: url(../backgrounds/bckg-scholars2.jpg) no-repeat;
+        background: url(../backgrounds/bckg-deen2.jpg) no-repeat;
         background-size: cover;
         background-position: center;
         min-height: 90vh;
