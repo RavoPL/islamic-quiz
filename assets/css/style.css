@@ -165,6 +165,7 @@ footer {
 
 /* -- quiz stylings -- */
 
+/* styles the question being asked */
 .question {
     font-family: Roboto, sans-serif;
     letter-spacing: 1px;
@@ -173,7 +174,7 @@ footer {
     font-weight: bold;
     margin-bottom: 20px;
 }
-
+/* styles the answer being given */
 .answers {
     font-family: Montserrat, sans-serif;
     color: white;
@@ -189,12 +190,12 @@ footer {
     opacity: 0;
     transition: opacity 0.5s;
 }
-
+/* styles the currently active slide which responds to user input */
 .active-slide{
     opacity: 1;
     z-index: 2;
 }
-
+/* styles the container containing quiz questions and answers */
 .quiz-container{
     position: relative;
     height: 10vh;
