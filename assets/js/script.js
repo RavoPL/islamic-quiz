@@ -24,7 +24,16 @@ const submitButton = document.getElementById('submit');
 /* -- basic functions of the quiz -- */
 
 /* logic for building the quiz structure */
-function buildQuiz(){}
+function buildQuiz(){
+  /* variable to store all HTML output */
+  const output = [];
+  /* HTML loop of each question */
+  questionsDeen.forEach(
+    (currentQuestion, questionNumber) => {
+
+    }
+  )
+}
 
 /* logic for displaying quiz results */
 function showResults(){}
