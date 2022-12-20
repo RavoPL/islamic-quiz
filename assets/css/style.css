@@ -122,7 +122,20 @@ footer {
     min-height: 6vh;
 }
 
+.socials ul {
+    margin: 0;
+    padding: 0;
+    text-align: center;
+}
+
+.socials li {
+    display: inline-block;
+    margin: 6px;
+    list-style: none;
+}
+
 /* -- media settings for mobile devices -- */
+
 @media (max-width: 700px) {
     /* swaps the background image for one with more suitable dimensions */
     .bckg-index {
