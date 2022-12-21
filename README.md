@@ -116,9 +116,9 @@ The webpage was designed with the idea of a seaside marina restaurant in mind. T
 
 ### Colour and Fonts
 
-![Image of Adobe Color Wheel](docs/features/adobe-color-wheel.png)
+![Image of Coolors Color Wheel](docs/colourpalette.png)
 
-Colour tones associated with the sea were chosen as basis for the colour palette of the webpage as the website is meant to emulate the vibe of a seaside marina. As such, the main colour is turquoise and the font colour is navy, which works well with the restaurant logo as well. For the fonts I chose Open Sans and Source Sans Pro from Google Fonts because they compliment one another very effectively. Arial was chosen as the backup font in case the previous two refuse to load because it's a neat, basic font that will display without any issues on all devices and software.
+Colour tones associated with Islam were chosen as basis for the colour palette of the webpage. As such, the main colour is black, which has been reported to be worn in many authentic ahadith by the Prophet Muhammad SAW and the Sahaba. Despite white being the second most authentic colour of Islam, I opted for "Blanched Almond" and "Bisque" to be the secondary colours, as this combination is more pleasing to the eye and still invokes feelings of Islam and many masajid in the Muslim world. Nevertheless, I also decided to include small hints of white, specifically in the quiz questions, to pay homage to that fact. For the fonts I chose Robot and Montserrat because they effectively compliment one another and are very clean. Sans-Serif was chosen as the backup font in case the previous two refuse to load because it's a basic font that should display without any issues on all devices and software.
 
 ### Structure
 
@@ -168,7 +168,7 @@ The website is structured in a user friendly way that makes navigation of its co
 * GitHub
 * GitPod
 * Google Fonts
-* Adobe Color
+* Coolors
 * Adobe Photoshop
 * Balsamiq
 
