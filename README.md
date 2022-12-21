@@ -252,10 +252,10 @@ The website consists of 5 pages and Y features
 <img src="docs/features/f-gallery.png" alt="Gallery section" title="Gallery Section">
 
 ### Footer
-* Informs new and returning customers of up to date opening times
-* Provides new and returning customers with the restaurant's location, phone number as well as e-mail address
-* Invites new and returning customers to visit the social media of the business
-* **Stories covered:** 1, 3, 9, 10, 13, 15
+* Provides the users with some relevant information on the author
+* Thanks the students for visiting the webpage and playing the quizzes
+* Invites users and students to contact the author on provided socials
+* **Stories covered:** 4, 10, 13
 <br>
 <img src="docs/features/f-footer.png" alt="Footer section" title="Footer Section">
 
