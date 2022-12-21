@@ -508,3 +508,4 @@ You can clone the repository by following these steps:
 ### Code and Assets
 * [Font Awesome 5 Icons by W3Schools, imported to make use of Facebook logo in the Footer](https://www.w3schools.com/icons/fontawesome5_intro.asp)
 * [Collapsible Box Code by W3Schools](https://www.w3schools.com/howto/howto_js_collapsible.asp)
+* [JavaScript Simple Quiz by Sitepoint](https://www.sitepoint.com/simple-javascript-quiz/)
