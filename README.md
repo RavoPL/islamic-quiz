@@ -30,7 +30,7 @@ Developed by **Dorian Wolarz**, a Code Institute Student
     - [Background Images](#background-images)
     - [Index Box](#index-box)
     - [Collapsible Section](#collapsible-section)
-    - [Special Events Section](#special-events-section)
+    - [Box Buttons](#box-buttons)
     - [Online Reservations Form](#online-reservations-form)
     - [Google Maps Section](#google-maps-section)
     - [Menu Section](#menu-section)
@@ -210,11 +210,12 @@ The website consists of 5 pages and Y features
 <br>
 <img src="docs/features/f-collapsible.png" alt="Collapsible section" title="Collapsible Section">
 
-### Special Events Section
-* Highly informative section of the main page that provides the customer with the sort of public and private events that 'The Narrows' can accommodate
-* **Stories covered:** 3, 17
+### Box Buttons
+* Interactive buttons within the index box of the home page that allow for easy access to all of the website's features
+* Aesthetically pleasing and made to suit the design and colour scheme
+* **Stories covered:** 5, 6, 7, 8, 9, 12, 14
 <br>
-<img src="docs/features/f-specialevents.png" alt="Special events section" title="Special Events Section">
+<img src="docs/features/f-buttons.png" alt="Box buttons" title="Box Buttons">
 
 ### Online Reservations Form
 * Crucial part of the Home page that allows new and returning customers to make orders without the need to have a dedicated account
