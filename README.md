@@ -112,13 +112,13 @@ Developed by **Dorian Wolarz**, a Code Institute Student
 
 ### Design Choices
 
-The webpage was designed with the concept of an Islamic center of education in mind, hence its name - 'Talib al-Ilm' which translates to 'Student of Knowledge'. The chosen artistic direction is meant to be clean, organized and easily navigable. The content of the webpage is neatly divided between collapsible and interactive buttons as well as a point-and-click quiz to make the experience easy on experienced and inexperienced web users.
+The webpage was designed with the concept of an Islamic center of education in mind, hence its name - *'Talib al-Ilm'* which translates to *'Student of Knowledge'*. The chosen artistic direction is meant to be clean, organized and easily navigable. The content of the webpage is neatly divided between collapsible and interactive buttons as well as a point-and-click quiz to make the experience easy on experienced and inexperienced web users.
 
 ### Colour and Fonts
 
 ![Image of Coolors Color Wheel](docs/colourpalette.png)
 
-Colour tones associated with Islam were chosen as basis for the colour palette of the webpage. As such, the main colour is black, which has been reported to be worn in many authentic ahadith by the Prophet Muhammad SAW and the Sahaba. Despite white being the second most authentic colour of Islam, I opted for "Blanched Almond" and "Bisque" to be the secondary colours, as this combination is more pleasing to the eye and still invokes feelings of Islam and many masajid in the Muslim world. Nevertheless, I also decided to include small hints of white, specifically in the quiz questions, to pay homage to that fact. For the fonts I chose Robot and Montserrat because they effectively compliment one another and are very clean. Sans-Serif was chosen as the backup font in case the previous two refuse to load because it's a basic font that should display without any issues on all devices and software.
+Colour tones associated with Islam were chosen as basis for the colour palette of the webpage. As such, the main colour is black, which has been reported to be worn in many authentic ahadith by the Prophet Muhammad SAW and the Sahaba. Despite white being the second most authentic colour of Islam, I opted for *"Blanched Almond"* and *"Bisque"* to be the secondary colours, as this combination is more pleasing to the eye and still invokes feelings of Islam and many masajid in the Muslim world. Nevertheless, I also decided to include small hints of white, specifically in the quiz questions, to pay homage to that fact. For the fonts I chose Robot and Montserrat because they effectively compliment one another and are very clean. Sans-Serif was chosen as the backup font in case the previous two refuse to load because it's a basic font that should display without any issues on all devices and software.
 
 ### Structure
 
@@ -177,7 +177,7 @@ The website is structured in a user friendly way that makes navigation of its co
 
 ## Features
 
-The website consists of X pages and Y features
+The website consists of 5 pages and Y features
 
 ### Logo and Navigation Bar
 * Featured on all three separate pages of the website
