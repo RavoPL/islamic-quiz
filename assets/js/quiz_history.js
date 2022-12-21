@@ -2,6 +2,8 @@ const quizContainer = document.getElementById('quiz');
 const resultsContainer = document.getElementById('results');
 const submitButton = document.getElementById('submit');
 
+/* -- a list of questions to display for the Islamic History section -- */
+
 const questionsHistory = [
     {
       question: "Which Islamic movement was adopted by the House of Saud in 1744?",
@@ -213,7 +215,7 @@ function buildHistory(){
 
 /* separate answers function for the Islamic History quiz */
 function showResults(){
-  const answerContainers = quizContainerTwo.querySelectorAll('.answers');
+  const answerContainers = quizContainer.querySelectorAll('.answers');
   let numCorrect = 0;
   questionsHistory.forEach(
     (currentQuestion, questionNumber) => {
