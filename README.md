@@ -122,10 +122,13 @@ Colour tones associated with Islam were chosen as basis for the colour palette o
 
 ### Structure
 
-The website is structured in a user friendly way that makes navigation of its contents extremely easy and pleasing to the eye. The most vital of information which can be stored on one page (*Home, About and Contact*) is done so through a hyperlink connection and relevant information in the webpage's footer section. Other equally vital information which need its own respective pages are stored in the *Gallery* and *Menu and Amenities* pages. As such, the website consists of three separate pages:
-* **The Home Page**, with its About and Contact sections down the bottom of the page which can be accessed with just one click
-* **The Gallery Page**, with its responsive gallery to enhance a customer's experience and give a glimpse into the restaurant facilities
-* **The Menu and Amenities Page**, which stores both the menu and the room rental sections
+The website is structured in a user friendly way that makes navigation of its contents extremely easy and makes it pleasing to the eye. The *Home Page* serves as the central hub of the design, allowing for quick access to other sections of the project through fully interactive buttons. Available quizzes are stored in the *Foundations of Deen*, *Islamic History* and *Fiqh* pages. The grades for enrolled students are in *Student Grades* and a list of reputable scholars, imams and speakers is provided in the *Shuyookh, A'imma and Du'aah* section. As such, the website consists of five separate pages:
+* **The Home Page**, with its selection of buttons and a collapsible section which explains how to use the webpage
+* **Foundations of Deen**, with its easy difficulty ten question quiz on the foundations of the religion
+* **Islamic History**, with its intermediate difficulty twenty question quiz on the history of Islam and Muslims
+* **Fiqh**, with its hard difficulty ten question quiz on the ins and outs of Islamic jurisprudence
+* **Student Grades**, with its list of enrolled students to compare yourself to once you get your grade
+* **Shuyookh, A'imma and Du'aah**, with its selection of reputable scholars, imams and speakers.
 
 ### Wireframes
 
