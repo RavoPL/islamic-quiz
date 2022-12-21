@@ -118,7 +118,7 @@ const questionsDeen = [
 
 /* -- a list of questions to display for the Islamic History section -- */
 
-const questionsHistory = [
+/* const questionsHistory = [
   {
     question: "Which Islamic movement was adopted by the House of Saud in 1744?",
     answers: {
@@ -299,7 +299,7 @@ const questionsHistory = [
     },
     correctAnswer: "a"
   }
-]
+]*/
 
 /* -- basic functions of the quiz, NOT MINE, made By Sitepoint, rewritten, modified and commented on by me -- */
 
