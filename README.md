@@ -264,17 +264,22 @@ In the future I plan on adding a fully dynamic student grades system to function
 
 <details>
   <summary>Home Page</summary>
-  <img src="docs/testing/v-index.png" alt="Validation of Home, About and Contact sections" title="Home Page Validation">
+  <img src="docs/testing/v-h-index.png" alt="Validation of home page" title="Home Page HTML Validation">
 </details>
 
 <details>
-  <summary>Gallery Page</summary>
-  <img src="docs/testing/v-gallery.png" alt="Validation of Gallery Page" title="Gallery Page Validation">
+  <summary>Foundations of Deen Quiz</summary>
+  <img src="docs/testing/v-h-deen.png" alt="Validation of deen page" title="Foundations of Deen HTML Validation">
 </details>
 
 <details>
-  <summary>Menu and Amenities Page</summary>
-  <img src="docs/testing/v-amenities.png" alt="Validation of Amenities Page" title="Menu and Amenities Page Validation">
+  <summary>Islamic History Quiz</summary>
+  <img src="docs/testing/v-h-history.png" alt="Validation of history page" title="Islamic History HTML Validation">
+</details>
+
+<details>
+  <summary>Scholars Page</summary>
+  <img src="docs/testing/v-h-scholars.png" alt="Validation of scholars page" title="Scholars HTML Validation">
 </details>
 
 ### CSS Validation
