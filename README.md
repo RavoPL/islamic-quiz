@@ -183,17 +183,18 @@ The website consists of 5 pages and Y features
 * Featured on all five separate pages of the website
 * Fully responsive, changes size according to the dimensions of the display on a particular device
 * Allows the user to quickly return to the index of the webpage
-* **Stories covered:** 3
+* **Stories covered:** 3, 15
 <br>
 <img src="docs/features/f-header.png" alt="Header on all pages" title="Home Page Header">
 
-### Main Banner Image
-* Featured on all three separate pages of the website
+### Background Images
+* Featured on all five separate pages of the website
 * Fully responsive, changes size according to the dimensions of the display on a particular device
-* Visually appealing, it helps divide up the text on the webpage into easily digestible portions
-* Displays a specific photo associated with 'The Narrows' restaurant for visual significance
+* Visually appealing, it helps break up the monotony of the text on the website
+* Alternates between two relevant photos of specific dimensions depending on whether you view the webpage on a personal computer or a hand-held device
+* **Stories covered:** 15
 <br>
-<img src="docs/features/f-banner.png" alt="Main banner on all pages" title="Main Banner Image">
+<img src="docs/features/f-bckgimages.png" alt="Example of a background image present on all pages" title="Background Image">
 
 ### About Us Section
 * It provides a description of the business and staff as well as some bits of history
