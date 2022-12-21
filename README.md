@@ -32,7 +32,7 @@ Developed by **Dorian Wolarz**, a Code Institute Student
     - [Collapsible Section](#collapsible-section)
     - [Box Buttons](#box-buttons)
     - [Quiz Sections](#quiz-sections)
-    - [Google Maps Section](#google-maps-section)
+    - [Grading Sections](#grading-sections)
     - [Menu Section](#menu-section)
     - [Amenities Section](#amenities-section)
     - [Gallery Section](#gallery-section)
@@ -225,12 +225,13 @@ The website consists of 5 pages and Y features
 <br>
 <img src="docs/features/f-quizsec.png" alt="Quiz sections" title="Quiz Sections">
 
-### Google Maps Section
-* Allows new customers to locate the restaurant
-* Allows new and returning customers to scout for points of interest in the surrounding area without having to open another tab
-* **Stories covered:** 1, 6
+### Grading Sections
+* Allows quiz takers to see their full score at the end of every quiz
+* Every question is highlighted in red or green depending on result
+* Students can go back over their answers and see what they got wrong which aids in memorization and an improvement in overall grades
+* **Stories covered:** 3, 6, 8, 9, 14
 <br>
-<img src="docs/features/f-map.png" alt="Maps section" title="Google Maps Section">
+<img src="docs/features/f-grading.png" alt="Grading sections" title="Grading Sections">
 
 ### Menu Section
 * Provides new and returning customers with an up to date main menu, with accurate names, prices and descriptions
