@@ -41,7 +41,7 @@ Developed by **Dorian Wolarz**, a Code Institute Student
     - [CSS Validation](#css-validation)
     - [Accessibility](#accessibility)
     - [Performance](#performance)
-    - [Testing of Customer, Returning Customer and Webpage Owner Stories](#testing-of-customer-returning-customer-and-webpage-owner-stories)
+    - [Testing of User, Returning User and Webpage Owner Stories](#testing-of-user-returning-user-and-webpage-owner-stories)
 7. [Known Bugs](#known-bugs)
 8. [Deployment](#deployment)
 9. [Credits](#credits)
@@ -356,15 +356,15 @@ In the future I plan on adding a fully dynamic student grades system to function
   <img src="docs/testing/p-amenities.png" alt="Performance of menu" title="Menu and Amenities Page Performance">
 </details>
 
-### Testing of Customer, Returning Customer and Webpage Owner Stories
+### Testing of User, Returning User and Webpage Owner Stories
 
-1. *As a new user I want to know where exactly the restaurant is located.*
+1. *As a completely new user and non-Muslim I want to understand what the website is about and what I can expect to be tested on.*
 <br>
 
 | **Feature**  | **Expected Result** | **Action Taken** | **Result** |
 | ------------- | ------------- | ------------- | ------------- |
-| Google Maps frame | Locate a mini frame showing accurate location of restaurant  | Navigate to 'Contact' in the nav bar, see Google Maps frame | Works as Intended |
-| Restaurant location in Footer | Locate the listed restaurant location in the footer  | Navigate to 'Contact' in the nav bar, see Footer on the bottom | Works as Intended |
+| Index Box | Familiarize yourself with webpage content | Navigate to the center of the home page and look within the index box | Works as Intended |
+| Collapsible Section | Familiarize yourself with detailed descriptions of site features | Navigate to the index box and click the 'How to Use the Website' button | Works as Intended |
 
 2. *I want to know the price range so I can compare it with other restaurants in the area.*
 <br>
