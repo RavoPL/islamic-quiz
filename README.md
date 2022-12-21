@@ -112,7 +112,7 @@ Developed by **Dorian Wolarz**, a Code Institute Student
 
 ### Design Choices
 
-The webpage was designed with the idea of a seaside marina restaurant in mind. The general aesthetic of the website is meant to be clean, organized and easily navigatable. The content of the webpage is neatly divided among sections and sub-sections to make the experience easy on the customer.
+The webpage was designed with the concept of an Islamic center of education in mind, hence its name - 'Talib al-Ilm' which translates to 'Student of Knowledge'. The chosen artistic direction is meant to be clean, organized and easily navigable. The content of the webpage is neatly divided between collapsible and interactive buttons as well as a point-and-click quiz to make the experience easy on experienced and inexperienced web users.
 
 ### Colour and Fonts
 
