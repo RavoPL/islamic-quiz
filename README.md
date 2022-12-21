@@ -34,8 +34,7 @@ Developed by **Dorian Wolarz**, a Code Institute Student
     - [Quiz Sections](#quiz-sections)
     - [Grading Sections](#grading-sections)
     - [Student Grades Section](#student-grades-section)
-    - [Amenities Section](#amenities-section)
-    - [Gallery Section](#gallery-section)
+    - [Scholars Section](#scholars-section)
     - [Footer](#footer-section)
 6. [Testing of the Webpage](#testing-of-the-webpage)
     - [HTML Validation](#html-validation)
@@ -240,18 +239,12 @@ The website consists of 5 pages and Y features
 <br>
 <img src="docs/features/f-grades.png" alt="Student grades section" title="Student Grades Section">
 
-### Amenities Section
-* Provides new and returning customers with an up to date list of available room rentals
-* Informs new and returning customers of the differences in each available bed and breakfast option
-* **Stories covered:** 7, 14
+### Scholars Section
+* Provides new and returning students with a list of reputable scholars, imams and speakers to take from
+* Broadens the horizons of both Muslims and non-Muslims alike
+* **Stories covered:** 12
 <br>
-<img src="docs/features/f-amenities.png" alt="Rooms section" title="Amenities Section">
-
-### Gallery Section
-* Provides new and returning customers with a visually appealing and responsive assortment of relevant photos
-* **Stories covered:** 14
-<br>
-<img src="docs/features/f-gallery.png" alt="Gallery section" title="Gallery Section">
+<img src="docs/features/f-scholars.png" alt="Scholars section" title="Scholars Section">
 
 ### Footer
 * Provides the users with some relevant information on the author
