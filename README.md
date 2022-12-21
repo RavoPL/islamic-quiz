@@ -492,15 +492,15 @@ In the future I plan on adding a fully dynamic student grades system to function
 
 | Encountered Bug | Potential Fix |
 | ------------- |:-------------:|
-| Google Maps window always adjusting to full width of display | Reduce values of vh and vw |
+| Collapsible text goes over the footer if opened on a very small device | Reduce the collapsible in size at a certain resolution |
 
 ### Fixed Bugs
 
 | Encountered Bug | The Fix Used |
 | ------------- |:-------------:|
-| Online Reservation Form not downsizing below a certain dimension size | Enveloped code in @media tag and styled it to a relative position, 80% of width and a height value of auto|
-| Footer stretching the page dimensions above a desired size | Enveloped code in @media tag and styled it to reduced font size below 700px while giving margins value of 0 |
-| Header not keeping a rigid form | Wrapped navbar into a div class and styled it within a @media query below 700px to keep text aligned, set width to 400 and keep a line height of 2em |
+| Footer icons not sticking under the text | Positioned the footer and li child to relative position |
+| Background image stretching itself to poor quality | Applied background-size cover and background-position center |
+| Widescreen background images cropping awfully on smaller devices | Media max-width 700 and a set of new background images with correct dimensions specifically for smaller devices |
 
 ## Deployment
 
