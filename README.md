@@ -296,8 +296,8 @@ In the future I plan on adding a fully dynamic student grades system to function
 
 <details>
   <summary>style.css</summary>
-  <img src="docs/testing/v-style1.png" alt="Validation of style.css" title="style.css Validation">
-  <img src="docs/testing/v-style2.png" alt="Validation of style.css" title="style.css Validation">
+  <img src="docs/testing/v--c-style1.png" alt="Validation of style.css" title="style.css Validation">
+  <img src="docs/testing/v-c-style2.png" alt="Validation of style.css" title="style.css Validation">
 </details>
 
 ### Accessibility
