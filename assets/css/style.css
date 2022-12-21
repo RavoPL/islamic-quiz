@@ -171,6 +171,7 @@ footer {
 .socials li {
     position: relative;
     list-style: none;
+    padding: 5px;
 }
 
 /* -- quiz stylings -- */
