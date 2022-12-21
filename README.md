@@ -278,6 +278,16 @@ In the future I plan on adding a fully dynamic student grades system to function
 </details>
 
 <details>
+  <summary>Fiqh Quiz</summary>
+  <img src="docs/testing/v-h-fiqh.png" alt="Validation of fiqh page" title="Fiqh HTML Validation">
+</details>
+
+<details>
+  <summary>Student Grades Page</summary>
+  <img src="docs/testing/v-h-grades.png" alt="Validation of grades page" title="Student Grades HTML Validation">
+</details>
+
+<details>
   <summary>Scholars Page</summary>
   <img src="docs/testing/v-h-scholars.png" alt="Validation of scholars page" title="Scholars HTML Validation">
 </details>
