@@ -404,33 +404,44 @@ In the future I plan on adding a fully dynamic student grades system to function
 | Box Buttons | Locate the grades section | Click the 'Student Grades' interactive button | Works as Intended |
 | Student Grades Section | Locate the grades | Navigate to the center of the page and analyze the grades within the box | Works as Intended |
 
-6. *I'd love to know about any points of interest close to the restaurant's accommodation.*
 <br>
+
+6. *As a first time user and a layman Muslim I'd like to test my knowledge on the foundations of the religion to refresh my memory.*
 
 | **Feature**  | **Expected Result** | **Action Taken** | **Result** |
 | ------------- | ------------- | ------------- | ------------- |
-| Google Maps frame | Locate a mini frame showing nearby points of interest | Navigate to 'Contact' in the nav bar, see Google Maps frame | Works as Intended |
+| Box Buttons | Locate the Foundations of Deen quiz | Navigate to the center of the home page and left click the 'Foundations of Deen' interactive button | Works as Intended |
+| Quiz Sections | Click the provided buttons to interact with the quiz | Click 'Previous/Next Question' to move across the question set, click the white dots to select your answer | Works as Intended |
+| Grading Sections | Click to grade your quiz attempt | Locate the 'Submit Quiz for Grading' button and click it with the left mouse button to receive your score and have your answers highlighted | Works as Intended |
 
-7. *I'd like to see what bed and breakfast options are available in the establishment.*
 <br>
+
+7. *As a returning user and a student of knowledge, I'd like to access the leaderboards and see if anyone has gotten ahead of me since I last played.*
 
 | **Feature**  | **Expected Result** | **Action Taken** | **Result** |
 | ------------- | ------------- | ------------- | ------------- |
-| Amenities section | Locate up to date Amenities section showing accommodation | Navigate to 'Menu and Amenities' in the nav bar, scroll to 'Amenities' section | Works as Intended |
+| Box Buttons | Locate the grades section | Click the 'Student Grades' interactive button | Works as Intended |
+| Student Grades Section | Locate the grades | Navigate to the center of the page and analyze the grades within the box | Works as Intended |
 
-8. *As a returning customer, I'd like to see an expanded list of special offers.*
 <br>
+
+8. *As a returning user I'd like to test myself on an intermediate difficulty topic, such as Islamic history.*
 
 | **Feature**  | **Expected Result** | **Action Taken** | **Result** |
 | ------------- | ------------- | ------------- | ------------- |
-| Special Offers section | Locate Special Offers section showing up to date specials | Scroll down the bottom of the Home page, see Special Offers | Works as Intended |
+| Box Buttons | Locate the Islamic History quiz | Navigate to the center of the home page and left click the 'Islamic History' interactive button | Works as Intended |
+| Quiz Sections | Click the provided buttons to interact with the quiz | Click 'Previous/Next Question' to move across the question set, click the white dots to select your answer | Works as Intended |
+| Grading Sections | Click to grade your quiz attempt | Locate the 'Submit Quiz for Grading' button and click it with the left mouse button to receive your score and have your answers highlighted | Works as Intended |
 
-9. *As a returning customer I want to know the changed opening hours.*
 <br>
+
+9. *As a returning user and a dedicated student of knowledge, I'd like to test my wits in a difficult quiz, such as the intricacies of Furu al-Fiqh.*
 
 | **Feature**  | **Expected Result** | **Action Taken** | **Result** |
 | ------------- | ------------- | ------------- | ------------- |
-| Information in Footer | Locate the opening hours listing in the Footer | Scroll down the bottom of the Home page, see opening hours in Footer | Works as Intended |
+| Box Buttons | Locate the Islamic History quiz | Navigate to the center of the home page and left click the 'Islamic History' interactive button | Works as Intended |
+| Quiz Sections | Click the provided buttons to interact with the quiz | Click 'Previous/Next Question' to move across the question set, click the white dots to select your answer | Works as Intended |
+| Grading Sections | Click to grade your quiz attempt | Locate the 'Submit Quiz for Grading' button and click it with the left mouse button to receive your score and have your answers highlighted | Works as Intended |
 
 10. *As a returning customer I'd like to find the phone number to make reservations.*
 <br>
