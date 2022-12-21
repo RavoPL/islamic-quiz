@@ -366,13 +366,12 @@ In the future I plan on adding a fully dynamic student grades system to function
 | Index Box | Familiarize yourself with webpage content | Navigate to the center of the home page and look within the index box | Works as Intended |
 | Collapsible Section | Familiarize yourself with detailed descriptions of site features | Navigate to the index box and click the 'How to Use the Website' button | Works as Intended |
 
-2. *I want to know the price range so I can compare it with other restaurants in the area.*
+2. *As a new user I want to know how to play the quiz.*
 <br>
 
 | **Feature**  | **Expected Result** | **Action Taken** | **Result** |
 | ------------- | ------------- | ------------- | ------------- |
-| Special Offers section | Locate Special Offers section showing up to date specials | Scroll down the bottom of the Home page, see Special Offers | Works as Intended |
-| Menu section | Locate up to date Main Menu meals | Navigate to 'Menu and Amenities' page, scroll down to Menu section | Works as Intended |
+| Collapsible Section | Familiarize yourself with detailed descriptions of site features | Navigate to the index box and click the 'How to Use the Website' button | Works as Intended |
 
 3. *I'd like to know more about the hours of opening, the special offers and the catering for special events.*
 <br>
