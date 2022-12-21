@@ -26,10 +26,10 @@ Developed by **Dorian Wolarz**, a Code Institute Student
     - [Languages](#languages)
     - [Tools and Websites](#tools-and-websites)
 5. [Features](#features)
-    - [Logo and Navigation Bar](#logo-and-navigation-bar)
-    - [Main Banner Image](#main-banner-image)
-    - [About Us Section](#about-us-section)
-    - [Special Offers Section](#special-offers-section)
+    - [Main Header and Logo](#main-header-and-logo)
+    - [Background Images](#background-images)
+    - [Index Box](#index-box)
+    - [Collapsible Section](#collapsible-section)
     - [Special Events Section](#special-events-section)
     - [Online Reservations Form](#online-reservations-form)
     - [Google Maps Section](#google-maps-section)
@@ -203,12 +203,12 @@ The website consists of 5 pages and Y features
 <br>
 <img src="docs/features/f-indexbox.png" alt="Index box section" title="Index Box Section">
 
-### Special Offers Section
-* Highly informative section of the main page that grants the user news of currently ongoing special offers
-* Divided by narrow images, it easily 'pops' into view and attracts a customer's attention
-* **Stories covered:** 2, 3, 8, 17
+### Collapsible Section
+* Highly informative section of the main page that provides the visitor with all the necessary information on the functionality of the webpage
+* Fully interactive and possible to fold and unfold its content as the user sees fit
+* **Stories covered:** 1, 2, 3, 11
 <br>
-<img src="docs/features/f-specialoffers.png" alt="Special offers section" title="Special Offers Section">
+<img src="docs/features/f-collapsible.png" alt="Collapsible section" title="Collapsible Section">
 
 ### Special Events Section
 * Highly informative section of the main page that provides the customer with the sort of public and private events that 'The Narrows' can accommodate
