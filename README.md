@@ -395,12 +395,14 @@ In the future I plan on adding a fully dynamic student grades system to function
 | ------------- | ------------- | ------------- | ------------- |
 | Footer | Locate and click on socials | Scroll down to the bottom of the page and left click on either of the social media icons | Works as Intended |
 
-5. *I want to know more about the restaurant and the people that work there.*
 <br>
+
+5. *I want to access the leaderboards and see who I'm squaring up against before I commit.*
 
 | **Feature**  | **Expected Result** | **Action Taken** | **Result** |
 | ------------- | ------------- | ------------- | ------------- |
-| About Us section | Locate About Us section providing information about the business | Click 'About' and read the section | Works as Intended |
+| Box Buttons | Locate the grades section | Click the 'Student Grades' interactive button | Works as Intended |
+| Student Grades Section | Locate the grades | Navigate to the center of the page and analyze the grades within the box | Works as Intended |
 
 6. *I'd love to know about any points of interest close to the restaurant's accommodation.*
 <br>
