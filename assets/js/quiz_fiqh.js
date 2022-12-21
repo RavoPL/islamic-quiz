@@ -15,85 +15,85 @@ const questionsFiqh = [
       correctAnswer: "b"
     },
     {
-      question: "What are the fundamental and obligatory acts of worship called?",
+      question: "What is deductive analogy called?",
       answers: {
-        a: "Seven Rites",
-        b: "Holy Trinity",
-        c: "Five Pillars",
-      },
-      correctAnswer: "c"
-    },
-    {
-      question: "How many names does Allah SWT have?",
-      answers: {
-        a: "1",
-        b: "99",
-        c: "33",
-      },
-      correctAnswer: "b"
-    },
-    {
-      question: "How many times a day are Muslims required to pray?",
-      answers: {
-        a: "Five times",
-        b: "Twice",
-        c: "Three times",
+        a: "Qiyas",
+        b: "Ijmaa",
+        c: "Aql",
       },
       correctAnswer: "a"
     },
     {
-      question: "What are the followers of Islam called?",
+      question: "What is reason called?",
       answers: {
-        a: "Sunnis",
-        b: "Muslims",
-        c: "Shias",
-      },
-      correctAnswer: "b"
-    },
-    {
-      question: "How many surahs does the Qur'an have?",
-      answers: {
-        a: "86",
-        b: "122",
-        c: "114",
+        a: "Ijit",
+        b: "Jihad",
+        c: "Aql",
       },
       correctAnswer: "c"
     },
     {
-      question: "What is the name of the first woman to become a Muslim?",
+      question: "Between a person and kufr is...?",
       answers: {
-        a: "Khadijah",
-        b: "Fatima",
-        c: "Amina",
+        a: "Not praying Fajr",
+        b: "Abandoning Salah",
+        c: "Praying after time is due",
+      },
+      correctAnswer: "b"
+    },
+    {
+      question: "What is Sharia?",
+      answers: {
+        a: "Law",
+        b: "Teaching",
+        c: "Guidance",
       },
       correctAnswer: "a"
     },
     {
-      question: "What is the qiblah?",
+      question: "What is Sunnah?",
       answers: {
-        a: "Ritual ablution",
-        b: "Direction of prayer",
-        c: "Remembrance of Allah SWT",
+        a: "Compulsory",
+        b: "Recommended",
+        c: "Do and donts",
       },
       correctAnswer: "b"
     },
     {
-      question: "Which book records the traditions and sayings of Prophet Muhammad SAW?",
+      question: "What is Nisab?",
       answers: {
-        a: "Tafsir",
-        b: "Tawrat",
-        c: "Hadith",
+        a: "Minimum wealth or property for Zakat",
+        b: "Garment for women",
+        c: "Ruling on ablution",
+      },
+      correctAnswer: "a"
+    },
+    {
+      question: "What is Istikharah?",
+      answers: {
+        a: "Direction of prayer",
+        b: "Tax on non-Muslims",
+        c: "Prayer for guidance",
       },
       correctAnswer: "c"
     },
     {
-      question: "When was the Prophet Muhammad SAW born?",
+      question: "Who is exempt from fasting?",
       answers: {
-        a: "400 CE",
-        b: "670 CE",
-        c: "570 CE",
+        a: "Teenagers",
+        b: "Mujahideen",
+        c: "Pregnant women",
       },
       correctAnswer: "c"
+    },
+    {
+      question: "Who is a recipient of Zakat?",
+      answers: {
+        a: "Kibar al-Sini",
+        b: "al-Fuqaraa",
+        c: "Ghuraba",
+      },
+      correctAnswer: "b"
     }
   ]
 
