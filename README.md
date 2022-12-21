@@ -196,11 +196,12 @@ The website consists of 5 pages and Y features
 <br>
 <img src="docs/features/f-bckgimages.png" alt="Example of a background image present on all pages" title="Background Image">
 
-### About Us Section
-* It provides a description of the business and staff as well as some bits of history
-* **Stories covered:** 5, 17
+### Index Box
+* Serves as the central hub for all navigation on the website
+* It allows users to acquaint themselves with features of the webpage
+* **Stories covered:** 1, 3, 15
 <br>
-<img src="docs/features/f-aboutus.png" alt="About us section" title="About Us Section">
+<img src="docs/features/f-indexbox.png" alt="Index box section" title="Index Box Section">
 
 ### Special Offers Section
 * Highly informative section of the main page that grants the user news of currently ongoing special offers
