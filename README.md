@@ -374,7 +374,6 @@ In the future I plan on adding a fully dynamic student grades system to function
 | Collapsible Section | Familiarize yourself with detailed descriptions of site features | Navigate to the index box and click the 'How to Use the Website' button | Works as Intended |
 
 3. *I'd like to easily navigate across a clean and friendly user interface.*
-<br>
 
 | **Feature**  | **Expected Result** | **Action Taken** | **Result** |
 | ------------- | ------------- | ------------- | ------------- |
