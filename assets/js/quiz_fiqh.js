@@ -2,17 +2,17 @@ const quizContainer = document.getElementById('quiz');
 const resultsContainer = document.getElementById('results');
 const submitButton = document.getElementById('submit');
 
-/* -- a list of questions to display for the Furu al-Fiqh section -- */
+/* -- a list of questions to display for the Fiqh section -- */
 
 const questionsFiqh = [
     {
-      question: "What is the month of fasting called?",
+      question: "What does wudhu of lower body include?",
       answers: {
-        a: "Tawheed",
-        b: "Kaaba",
-        c: "Ramadan",
+        a: "Thighs",
+        b: "Ankles",
+        c: "Knees",
       },
-      correctAnswer: "c"
+      correctAnswer: "b"
     },
     {
       question: "What are the fundamental and obligatory acts of worship called?",
@@ -97,7 +97,7 @@ const questionsFiqh = [
     }
   ]
 
-/* separate quiz function for the Furu al-Fiqh quiz */
+/* separate quiz function for the Fiqh quiz */
 function buildFiqh(){
   const output = [];
   questionsFiqh.forEach(
@@ -123,7 +123,7 @@ function buildFiqh(){
   quizContainer.innerHTML = output.join('');
 }
 
-/* separate answers function for the Furu al-Fiqh quiz */
+/* separate answers function for the Fiqh quiz */
 function showResults(){
   const answerContainers = quizContainer.querySelectorAll('.answers');
   let numCorrect = 0;
