@@ -213,6 +213,17 @@ footer {
     width: 70vw;
     margin-top: 20px;
 }
+/* styles the next, previous and submit buttons to follow the established design */
+#next, #previous, #submit {
+    background-color: rgba(0,0,0,0.7);
+    cursor: pointer;
+    padding: 5px;
+    border: 1px solid #ffebcd;
+    text-align: center;
+    outline: none;
+    font-family: Montserrat, sans-serif;
+    color: blanchedalmond;
+}
 
 /* -- media settings for mobile devices -- */
 
