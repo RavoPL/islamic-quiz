@@ -179,11 +179,11 @@ The website is structured in a user friendly way that makes navigation of its co
 
 The website consists of 5 pages and Y features
 
-### Logo and Navigation Bar
-* Featured on all three separate pages of the website
+### Main Header and Logo
+* Featured on all five separate pages of the website
 * Fully responsive, changes size according to the dimensions of the display on a particular device
-* The page the user is currently on is highlighted with an underscore styling
-* Allows customer for quick and easy navigation of all three separate pages on the website as well as specific sections of the Home page
+* Allows the user to quickly return to the index of the webpage
+* **Stories covered:** 3
 <br>
 <img src="docs/features/f-header.png" alt="Header on all pages" title="Home Page Header">
 
