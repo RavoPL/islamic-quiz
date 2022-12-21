@@ -21,8 +21,6 @@ const quizContainer = document.getElementById('quiz');
 const resultsContainer = document.getElementById('results');
 const submitButton = document.getElementById('submit');
 
-/*const quizContainer = document.getElementById('quiz2');*/
-
 /* -- a list of questions to display for the Foundations of Deen section -- */
 
 const questionsDeen = [
@@ -120,7 +118,7 @@ const questionsDeen = [
 
 /* -- a list of questions to display for the Islamic History section -- */
 
-/*const questionsHistory = [
+const questionsHistory = [
   {
     question: "Which Islamic movement was adopted by the House of Saud in 1744?",
     answers: {
@@ -301,7 +299,7 @@ const questionsDeen = [
     },
     correctAnswer: "a"
   }
-]*/
+]
 
 /* -- basic functions of the quiz, NOT MINE, made By Sitepoint, rewritten, modified and commented on by me -- */
 
@@ -339,7 +337,7 @@ function buildQuiz(){
 }
 
 /* separate quiz function for the Islamic History quiz */
-/*function buildHistory(){
+/* function buildHistory(){
   const output = [];
   questionsHistory.forEach(
     (currentQuestion, questionNumber) => {
@@ -361,7 +359,7 @@ function buildQuiz(){
       );
     }
   );
-  quizContainer.innerHTML = output.join(``);
+  quizContainer.innerHTML = output.join('');
 }*/
 
 /* logic for displaying quiz results */
@@ -397,7 +395,7 @@ function showResults(){
 
 /* separate answers function for the Islamic History quiz */
 /*function showResults(){
-  const answerContainers = quizContainer.querySelectorAll('.answers');
+  const answerContainers = quizContainerTwo.querySelectorAll('.answers');
   let numCorrect = 0;
   questionsHistory.forEach(
     (currentQuestion, questionNumber) => {
@@ -413,7 +411,7 @@ function showResults(){
       }
     }
   );
-  resultsContainer.innerHTML = `${numCorrect} out of ${questionsDeen.length}`;
+  resultsContainer.innerHTML = `${numCorrect} out of ${questionsHistory.length}`;
 }*/
 
 /* logic for displaying a slide and changing pages */
