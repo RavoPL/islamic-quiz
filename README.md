@@ -373,14 +373,16 @@ In the future I plan on adding a fully dynamic student grades system to function
 | ------------- | ------------- | ------------- | ------------- |
 | Collapsible Section | Familiarize yourself with detailed descriptions of site features | Navigate to the index box and click the 'How to Use the Website' button | Works as Intended |
 
-3. *I'd like to know more about the hours of opening, the special offers and the catering for special events.*
+3. *I'd like to easily navigate across a clean and friendly user interface.*
 <br>
 
 | **Feature**  | **Expected Result** | **Action Taken** | **Result** |
 | ------------- | ------------- | ------------- | ------------- |
-| Special Offers section | Locate Special Offers section showing up to date specials | Scroll down the bottom of the Home page, see Special Offers | Works as Intended |
-| Special Events section | Locate Special Events section showing events catering | Scroll down the bottom of the Home page, see Special Events | Works as Intended |
-| Information in Footer | Locate opening times listing in the Footer | Scroll down the bottom of the Home page, see opening times in Footer | Works as Intended |
+| Main Header and Logo | Click the header logo to return to the home page | Locate the header logo and click on it with the left mouse button | Works as Intended |
+| Index Box | Familiarize yourself with webpage content | Navigate to the center of the home page and look within the index box | Works as Intended |
+| Collapsible Section | Familiarize yourself with detailed descriptions of site features | Navigate to the index box and click the 'How to Use the Website' button | Works as Intended |
+| Quiz Sections | Click the provided buttons to interact with the quiz | Click 'Previous/Next Question' to move across the question set, click the white dots to select your answer | Works as Intended |
+| Grading Sections | Click to grade your quiz attempt | Locate the 'Submit Quiz for Grading' button and click it with the left mouse button to receive your score and have your answers highlighted | Works as Intended |
 
 4. *I'd want to be able to make orders from the webpage without having to make a separate account.*
 <br>
