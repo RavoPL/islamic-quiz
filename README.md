@@ -31,7 +31,7 @@ Developed by **Dorian Wolarz**, a Code Institute Student
     - [Index Box](#index-box)
     - [Collapsible Section](#collapsible-section)
     - [Box Buttons](#box-buttons)
-    - [Online Reservations Form](#online-reservations-form)
+    - [Quiz Sections](#quiz-sections)
     - [Google Maps Section](#google-maps-section)
     - [Menu Section](#menu-section)
     - [Amenities Section](#amenities-section)
@@ -217,12 +217,13 @@ The website consists of 5 pages and Y features
 <br>
 <img src="docs/features/f-buttons.png" alt="Box buttons" title="Box Buttons">
 
-### Online Reservations Form
-* Crucial part of the Home page that allows new and returning customers to make orders without the need to have a dedicated account
-* Allows new and returning customers to contact the owner directly without having to resort to e-mail communication
-* **Stories covered:** 4, 12, 15, 16
+### Quiz Sections
+* Fully interactive buttons within the index box that allow the user to move forward or back with the questions being asked
+* Interactive selection of each answer that allows for later adjustments and changes
+* Clear and easily readable questions and answers that follow the established artistic direction of the website
+* **Stories covered:** 3, 6, 8, 9, 14
 <br>
-<img src="docs/features/f-onlinereservations.png" alt="Online reservations section" title="Reservation Form">
+<img src="docs/features/f-quizsec.png" alt="Quiz sections" title="Quiz Sections">
 
 ### Google Maps Section
 * Allows new customers to locate the restaurant
