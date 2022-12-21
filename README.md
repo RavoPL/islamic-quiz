@@ -35,7 +35,7 @@ Developed by **Dorian Wolarz**, a Code Institute Student
     - [Grading Sections](#grading-sections)
     - [Student Grades Section](#student-grades-section)
     - [Scholars Section](#scholars-section)
-    - [Footer](#footer-section)
+    - [Footer](#footer)
 6. [Testing of the Webpage](#testing-of-the-webpage)
     - [HTML Validation](#html-validation)
     - [CSS Validation](#css-validation)
