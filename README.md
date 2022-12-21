@@ -358,20 +358,24 @@ In the future I plan on adding a fully dynamic student grades system to function
 
 ### Testing of User, Returning User and Webpage Owner Stories
 
-1. *As a completely new user and non-Muslim I want to understand what the website is about and what I can expect to be tested on.*
 <br>
+
+1. *As a completely new user and non-Muslim I want to understand what the website is about and what I can expect to be tested on.*
 
 | **Feature**  | **Expected Result** | **Action Taken** | **Result** |
 | ------------- | ------------- | ------------- | ------------- |
 | Index Box | Familiarize yourself with webpage content | Navigate to the center of the home page and look within the index box | Works as Intended |
 | Collapsible Section | Familiarize yourself with detailed descriptions of site features | Navigate to the index box and click the 'How to Use the Website' button | Works as Intended |
 
-2. *As a new user I want to know how to play the quiz.*
 <br>
+
+2. *As a new user I want to know how to play the quiz.*
 
 | **Feature**  | **Expected Result** | **Action Taken** | **Result** |
 | ------------- | ------------- | ------------- | ------------- |
 | Collapsible Section | Familiarize yourself with detailed descriptions of site features | Navigate to the index box and click the 'How to Use the Website' button | Works as Intended |
+
+<br>
 
 3. *I'd like to easily navigate across a clean and friendly user interface.*
 
@@ -383,12 +387,13 @@ In the future I plan on adding a fully dynamic student grades system to function
 | Quiz Sections | Click the provided buttons to interact with the quiz | Click 'Previous/Next Question' to move across the question set, click the white dots to select your answer | Works as Intended |
 | Grading Sections | Click to grade your quiz attempt | Locate the 'Submit Quiz for Grading' button and click it with the left mouse button to receive your score and have your answers highlighted | Works as Intended |
 
-4. *I'd want to be able to make orders from the webpage without having to make a separate account.*
 <br>
+
+4. *I'd like to have the option to contact the author of the webpage on his socials for any inquiries or potential problems.*
 
 | **Feature**  | **Expected Result** | **Action Taken** | **Result** |
 | ------------- | ------------- | ------------- | ------------- |
-| Online Reservation form | Locate and submit an Online Reservation form | Click 'Contact' and scroll to the Online Reservation form, fill it out | Works as Intended |
+| Footer | Locate and click on socials | Scroll down to the bottom of the page and left click on either of the social media icons | Works as Intended |
 
 5. *I want to know more about the restaurant and the people that work there.*
 <br>
