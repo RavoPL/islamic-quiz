@@ -33,7 +33,7 @@ Developed by **Dorian Wolarz**, a Code Institute Student
     - [Box Buttons](#box-buttons)
     - [Quiz Sections](#quiz-sections)
     - [Grading Sections](#grading-sections)
-    - [Menu Section](#menu-section)
+    - [Student Grades Section](#student-grades-section)
     - [Amenities Section](#amenities-section)
     - [Gallery Section](#gallery-section)
     - [Footer](#footer-section)
@@ -233,12 +233,12 @@ The website consists of 5 pages and Y features
 <br>
 <img src="docs/features/f-grading.png" alt="Grading sections" title="Grading Sections">
 
-### Menu Section
-* Provides new and returning customers with an up to date main menu, with accurate names, prices and descriptions
-* Informs new and returning customers of the variaties of the main menu depending on time of day
-* **Stories covered:** 2, 11, 17
+### Student Grades Section
+* Provides new and returning students with pre-established grades to compare themselves to
+* Neatly divided into sections and stylized with crescents, it is clear on the eye and fits the artistic design of the project
+* **Stories covered:** 5, 7, 14
 <br>
-<img src="docs/features/f-menu.png" alt="Menu section" title="Main Menu Section">
+<img src="docs/features/f-grades.png" alt="Student grades section" title="Student Grades Section">
 
 ### Amenities Section
 * Provides new and returning customers with an up to date list of available room rentals
