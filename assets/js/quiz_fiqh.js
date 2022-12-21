@@ -95,7 +95,7 @@ const questionsFiqh = [
       },
       correctAnswer: "b"
     }
-  ]
+  ];
 
 /* separate quiz function for the Fiqh quiz */
 function buildFiqh(){

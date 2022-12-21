@@ -296,8 +296,30 @@ In the future I plan on adding a fully dynamic student grades system to function
 
 <details>
   <summary>style.css</summary>
-  <img src="docs/testing/v--c-style1.png" alt="Validation of style.css" title="style.css Validation">
+  <img src="docs/testing/v-c-style1.png" alt="Validation of style.css" title="style.css Validation">
   <img src="docs/testing/v-c-style2.png" alt="Validation of style.css" title="style.css Validation">
+</details>
+
+### JavaScript Validation
+
+<details>
+  <summary>Collapsible</summary>
+  <img src="docs/testing/v-js-collapsible.png" alt="Validation of collapsible" title="Collpasible JS Validation">
+</details>
+
+<details>
+  <summary>Foundations of Deen Quiz</summary>
+  <img src="docs/testing/v-js-deen.png" alt="Validation of deen quiz" title="Foundations of Deen JS Validation">
+</details>
+
+<details>
+  <summary>Islamic History Quiz</summary>
+  <img src="docs/testing/v-js-history.png" alt="Validation of history quiz" title="Islamic History JS Validation">
+</details>
+
+<details>
+  <summary>Fiqh Quiz</summary>
+  <img src="docs/testing/v-js-fiqh.png" alt="Validation of fiqh quiz" title="Fiqh JS Validation">
 </details>
 
 ### Accessibility

@@ -185,7 +185,7 @@ const questionsHistory = [
       },
       correctAnswer: "a"
     }
-  ]
+  ];
 
 /* separate quiz function for the Islamic History quiz */
 function buildHistory(){

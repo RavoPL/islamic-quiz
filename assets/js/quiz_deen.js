@@ -97,7 +97,7 @@ const questionsDeen = [
     },
     correctAnswer: "c"
   }
-]
+];
 
 /* -- basic functions of the quiz, NOT MINE, made By Sitepoint, rewritten, modified and commented on by me -- */
 
