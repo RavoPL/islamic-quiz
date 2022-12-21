@@ -176,7 +176,7 @@ The website is structured in a user friendly way that makes navigation of its co
 
 ## Features
 
-The website consists of 5 pages and Y features
+The website consists of 5 pages and 10 features
 
 ### Main Header and Logo
 * Featured on all five separate pages of the website
@@ -256,7 +256,7 @@ The website consists of 5 pages and Y features
 
 ### Features Left to Implement
 
-In the future I plan on adding a dynamic user review section that displays customer reviews, a carousel for banner images, resize various aspects of the webpage to fit better on-screen and look cleaner, as well as create separate pages for the Contact and About Us buttons in the navigation bar
+In the future I plan on adding a fully dynamic student grades system to function as an authentic leaderboard where you can input your results, which I couldn't do now as I ran out of time with my project. I've also been considering adding a descrete music player to be activated by the user that would play authentic Islamic anasheed with vocals only.
 
 ## Testing of the Webpage
 
