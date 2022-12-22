@@ -362,13 +362,28 @@ In the future I plan on adding a fully dynamic student grades system to function
 </details>
 
 <details>
-  <summary>Gallery Page</summary>
-  <img src="docs/testing/p-gallery.png" alt="Performance of gallery" title="Gallery Page Performance">
+  <summary>Foundations of Deen Quiz</summary>
+  <img src="docs/testing/p-deen.png" alt="Performance of deen" title="Foundations of Deen Performance">
 </details>
 
 <details>
-  <summary>Menu and Amenities Page</summary>
-  <img src="docs/testing/p-amenities.png" alt="Performance of menu" title="Menu and Amenities Page Performance">
+  <summary>Islamic History Quiz</summary>
+  <img src="docs/testing/p-history.png" alt="Performance of history" title="Islamic History Performance">
+</details>
+
+<details>
+  <summary>Fiqh Quiz</summary>
+  <img src="docs/testing/p-fiqh.png" alt="Performance of fiqh" title="Fiqh Performance">
+</details>
+
+<details>
+  <summary>Student Grades Page</summary>
+  <img src="docs/testing/p-grades.png" alt="Performance of grades" title="Student Grades Page Performance">
+</details>
+
+<details>
+  <summary>Scholars Page</summary>
+  <img src="docs/testing/p-scholars.png" alt="Performance of scholars" title="Scholars Page Performance">
 </details>
 
 ### Testing of User, Returning User and Webpage Owner Stories
