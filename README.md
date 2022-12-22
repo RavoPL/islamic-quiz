@@ -1,6 +1,8 @@
 # Talib al-Ilm
 Developed by **Dorian Wolarz**, a Code Institute Student
 
+*Talib al-Ilm or 'Student of Knowledge' is a website designed with both Muslims and non-Muslims in mind. It offers three interactive quizzes with subjects ranging from the fundamentals of the religion to complex topics such as jurisprudence. The user is provided with an intelligent and clear design that is easy on the eye and stands as a testament to a rich Islamic tradition. Additionally, students will be able to find a list of reputable scholars, imams and speakers of Ahlus Sunnah Wal Jamaah to take from.*
+
 ![Image of My Website on Multiple Devices](docs/readme-image.png)
 
 [LINK TO LIVE WEBPAGE](https://ravopl.github.io/islamic-quiz/)
