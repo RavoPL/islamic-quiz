@@ -496,7 +496,7 @@ In the future I plan on adding a fully dynamic student grades system to function
 | **Feature**  | **Expected Result** | **Action Taken** | **Result** |
 | ------------- | ------------- | ------------- | ------------- |
 | Main Header and Logo | Click the header logo to return to the home page | Locate the header logo and click on it with the left mouse button | Works as Intended |
-| Background Images | Switch the backgrounds | Navigate to different sections of the page to see the backgrounds change, you can also use a smaller device or viewport to see a different image |
+| Background Images | Switch the backgrounds | Navigate to different sections of the page to see the backgrounds change, you can also use a smaller device or viewport to see a different image | Works as Intended |
 | Index Box | Familiarize yourself with webpage content | Navigate to the center of the home page and look within the index box | Works as Intended |
 
 ## Known Bugs
