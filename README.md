@@ -439,70 +439,65 @@ In the future I plan on adding a fully dynamic student grades system to function
 
 | **Feature**  | **Expected Result** | **Action Taken** | **Result** |
 | ------------- | ------------- | ------------- | ------------- |
-| Box Buttons | Locate the Islamic History quiz | Navigate to the center of the home page and left click the 'Islamic History' interactive button | Works as Intended |
+| Box Buttons | Locate the Fiqh quiz | Navigate to the center of the home page and left click the 'Fiqh' interactive button | Works as Intended |
 | Quiz Sections | Click the provided buttons to interact with the quiz | Click 'Previous/Next Question' to move across the question set, click the white dots to select your answer | Works as Intended |
 | Grading Sections | Click to grade your quiz attempt | Locate the 'Submit Quiz for Grading' button and click it with the left mouse button to receive your score and have your answers highlighted | Works as Intended |
 
-10. *As a returning customer I'd like to find the phone number to make reservations.*
 <br>
+
+10. *I'd like to contact the webpage creator through his socials in order to give him some of my ideas for improvements to the website.*
 
 | **Feature**  | **Expected Result** | **Action Taken** | **Result** |
 | ------------- | ------------- | ------------- | ------------- |
-| Information in Footer | Locate the provided phone number in the Footer | Scroll down the bottom of the Home page, see phone number in Footer | Works as Intended |
+| Footer | Locate and click on socials | Scroll down to the bottom of the page and left click on either of the social media icons | Works as Intended |
 
-11. *I'd like to see the menu, with a clear pricing list and names of dishes.*
 <br>
+
+11. *I'd like to refresh my memory on how to play the game as I haven't been on the website in a few weeks.*
 
 | **Feature**  | **Expected Result** | **Action Taken** | **Result** |
 | ------------- | ------------- | ------------- | ------------- |
-| Menu section | Locate up to date Main Menu meals | Navigate to 'Menu and Amenities' page, scroll down to Menu section | Works as Intended |
+| Collapsible Section | Familiarize yourself with detailed descriptions of site features | Navigate to the index box and click the 'How to Use the Website' button | Works as Intended |
 
-12. *I want to make orders without having to make a separate account just for this purpose.*
 <br>
+
+12. *I want to see a list of reputable scholars, imams and speakers to take from and improve my previous high score.*
 
 | **Feature**  | **Expected Result** | **Action Taken** | **Result** |
 | ------------- | ------------- | ------------- | ------------- |
-| Online Reservation form | Locate and submit an Online Reservation form | Click 'Contact' and scroll to the Online Reservation form, fill it out | Works as Intended |
+| Box Buttons | Locate the scholars section | Click the 'Shuyookh A'imma and Du'aah' interactive button | Works as Intended |
 
-13. *I would want to find clickable icons to access social media.*
 <br>
+
+13. *As the owner of the website, I want the users to have an easy way to contact me with any queries through the hyperlink-based icons to my socials in the footer of the website.*
 
 | **Feature**  | **Expected Result** | **Action Taken** | **Result** |
 | ------------- | ------------- | ------------- | ------------- |
-| Information in Footer | Locate the social media hyperlink in the Footer | Scroll down the bottom of the Home page, see 'Find Us On' section in Footer | Works as Intended |
+| Footer | Locate and click on socials | Scroll down to the bottom of the page and left click on either of the social media icons | Works as Intended |
 
-14. *I'd like to see a gallery of relevant photos so I can see the facilities in the establishment.*
 <br>
+
+14. *I want the students to compete against each other in all three quizzes and, as such, I'd like to have a leaderboard for every difficulty of the game.*
 
 | **Feature**  | **Expected Result** | **Action Taken** | **Result** |
 | ------------- | ------------- | ------------- | ------------- |
-| Gallery section | Locate and assess the Photo Gallery | Click 'Gallery' page in the navigation bar, scroll down | Works as Intended |
+| Box Buttons | Locate the Foundations of Deen quiz | Navigate to the center of the home page and left click the 'Foundations of Deen' interactive button | Works as Intended |
+| Box Buttons | Locate the Islamic History quiz | Navigate to the center of the home page and left click the 'Islamic History' interactive button | Works as Intended |
+| Box Buttons | Locate the Fiqh quiz | Navigate to the center of the home page and left click the 'Fiqh' interactive button | Works as Intended |
+| Quiz Sections | Click the provided buttons to interact with the quiz | Click 'Previous/Next Question' to move across the question set, click the white dots to select your answer | Works as Intended |
+| Grading Sections | Click to grade your quiz attempt | Locate the 'Submit Quiz for Grading' button and click it with the left mouse button to receive your score and have your answers highlighted | Works as Intended |
+| Box Buttons | Locate the grades section | Click the 'Student Grades' interactive button | Works as Intended |
+| Student Grades Section | Locate the grades | Navigate to the center of the page and analyze the grades within the box | Works as Intended |
 
-15. *As the owner of the website, I want the customers to have an easy way to contact us.*
 <br>
+
+15. *I'd like the users to have a good experience viewing the webpage, so I'd like to make sure the website follows good UX design principles, is easy on the eyes and incorporates full interactivity of each page and button.*
 
 | **Feature**  | **Expected Result** | **Action Taken** | **Result** |
 | ------------- | ------------- | ------------- | ------------- |
-| Online Reservation form | Communicate with website owner through reservation form | Click 'Contact' and scroll to the Online Reservation form, fill it out | Works as Intended |
-| Information in Footer | Locate the social media hyperlink in the Footer | Scroll down the bottom of the Home page, see 'Find Us On' section in Footer | Works as Intended |
-| Information in Footer | Locate the provided phone number in the Footer | Scroll down the bottom of the Home page, see phone number in Footer | Works as Intended |
-
-16. *I want the customers to have an easy access to on-webpage ordering, so that orders can be forwarded to us without any issues and without the need to make personal accounts to be held in our database.*
-<br>
-
-| **Feature**  | **Expected Result** | **Action Taken** | **Result** |
-| ------------- | ------------- | ------------- | ------------- |
-| Online Reservation form | Locate and submit an Online Reservation form without having to make a dedicated account | Click 'Contact' and scroll to the Online Reservation form, fill it out and submit | Works as Intended |
-
-17. *I'd like the users to have a good experience viewing the webpage and getting to know our menu, special offers, special events and a little bit about us as a company and brand.*
-<br>
-
-| **Feature**  | **Expected Result** | **Action Taken** | **Result** |
-| ------------- | ------------- | ------------- | ------------- |
-| Menu section | Locate up to date Main Menu meals | Navigate to 'Menu and Amenities' page, scroll down to Menu section | Works as Intended |
-| Special Offers section | Locate Special Offers section showing up to date specials | Scroll down the bottom of the Home page, see Special Offers | Works as Intended |
-| Special Events section | Locate Special Events section showing events catering | Scroll down the bottom of the Home page, see Special Events | Works as Intended |
-| About Us section | Locate About Us section providing information about the business | Click 'About' and read the section | Works as Intended |
+| Main Header and Logo | Click the header logo to return to the home page | Locate the header logo and click on it with the left mouse button | Works as Intended |
+| Background Images | Switch the backgrounds | Navigate to different sections of the page to see the backgrounds change, you can also use a smaller device or viewport to see a different image |
+| Index Box | Familiarize yourself with webpage content | Navigate to the center of the home page and look within the index box | Works as Intended |
 
 ## Known Bugs
 
