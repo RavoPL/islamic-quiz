@@ -272,8 +272,6 @@ footer {
 @media (max-width: 1600px) {
     /* reduces the font size for superior readability on smaller devices */
     .box-index {
-        width: 80vw;
-        height: 80vh;
         font-size: small;
         box-sizing: border-box;
     }
@@ -281,17 +279,13 @@ footer {
 
 @media (max-width: 1100px) {
     .box-index {
-        width: 80vw;
-        height: 80vh;
-        font-size: small;
+        font-size: smaller;
         box-sizing: border-box;
     }
 }
 
 @media (max-width: 920px) {
     .box-index {
-        width: 60vw;
-        height: 80vh;
         font-size: xx-small;
         box-sizing: border-box;
     }
@@ -299,8 +293,6 @@ footer {
 
 @media (max-width: 750px) {
     .box-index {
-        width: 80vw;
-        height: 80vh;
         font-size: xx-small;
         box-sizing: border-box;
     }
