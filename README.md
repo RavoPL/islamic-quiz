@@ -1,9 +1,9 @@
 # Talib al-Ilm
 Developed by **Dorian Wolarz**, a Code Institute Student
 
-![Image of My Website on a Mac](docs/readme-image.png)
+![Image of My Website on Multiple Devices](docs/readme-image.png)
 
-[LINK TO LIVE WEBPAGE](https://ravopl.github.io/narrows-portaferry/)
+[LINK TO LIVE WEBPAGE](https://ravopl.github.io/islamic-quiz/)
 
 ## Contents
 
