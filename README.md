@@ -41,6 +41,7 @@ Developed by **Dorian Wolarz**, a Code Institute Student
 6. [Testing of the Webpage](#testing-of-the-webpage)
     - [HTML Validation](#html-validation)
     - [CSS Validation](#css-validation)
+    - [JavaScript Validation](#javascript-validation)
     - [Accessibility](#accessibility)
     - [Performance](#performance)
     - [Testing of User, Returning User and Webpage Owner Stories](#testing-of-user-returning-user-and-webpage-owner-stories)
