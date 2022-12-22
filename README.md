@@ -535,7 +535,7 @@ In the future I plan on adding a fully dynamic student grades system to function
 
 | Encountered Bug | Potential Fix |
 | ------------- |:-------------:|
-| Collapsible text goes over the footer if opened on a very small device | Reduce the collapsible in size at a certain resolution |
+| Collapsible text goes over the footer if opened on some devices | Reduce the collapsible in size at a certain resolution |
 
 ### Fixed Bugs
 
