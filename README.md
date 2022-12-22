@@ -326,17 +326,32 @@ In the future I plan on adding a fully dynamic student grades system to function
 
 <details>
   <summary>Home Page</summary>
-  <img src="docs/testing/a-index.png" alt="Accessibility of index" title="Home Page Validation">
+  <img src="docs/testing/a-index.png" alt="Accessibility of index" title="Home Page Accessibility Validation">
 </details>
 
 <details>
-  <summary>Gallery Page</summary>
-  <img src="docs/testing/a-gallery.png" alt="Accessibility of gallery" title="Gallery Page Validation">
+  <summary>Foundations of Deen Quiz</summary>
+  <img src="docs/testing/a-deen.png" alt="Accessibility of deen" title="Foundations of Deen Accessibility Validation">
 </details>
 
 <details>
-  <summary>Menu and Amenities Page</summary>
-  <img src="docs/testing/a-amenities.png" alt="Accessibility of menu" title="Menu and Amenities Page Validation">
+  <summary>Islamic History Quiz</summary>
+  <img src="docs/testing/a-history.png" alt="Accessibility of history" title="Islamic History Accessibility Validation">
+</details>
+
+<details>
+  <summary>Fiqh Quiz</summary>
+  <img src="docs/testing/a-fiqh.png" alt="Accessibility of fiqh" title="Fiqh Accessibility Validation">
+</details>
+
+<details>
+  <summary>Student Grades Page</summary>
+  <img src="docs/testing/a-grades.png" alt="Accessibility of grades" title="Student Grades Page Accessibility Validation">
+</details>
+
+<details>
+  <summary>Scholars Page</summary>
+  <img src="docs/testing/a-scholars.png" alt="Accessibility of scholars" title="Scholars Page Accessibility Validation">
 </details>
 
 ### Performance
